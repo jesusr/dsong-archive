@@ -1,0 +1,44 @@
+.post-view {
+
+}
+
+.post-view__title {
+  font-family: $amaranth;
+  font-size: 2rem;
+  line-height: 1.2;
+  margin-bottom: 1rem;
+}
+
+.post-view__meta {
+  font-size: .8rem;
+}
+
+.post-view__author {
+  margin-right: 1rem;
+}
+
+.post-view__author-image {
+  border-radius: 1rem;
+  display: inline-block;
+  margin-right: .5rem;
+  width: 20px;
+  vertical-align: middle;
+}
+
+.post-view__author-name {
+  display: inline-block;
+  vertical-align: middle;
+}
+
+.post-view__date {
+  vertical-align: middle;
+}
+
+.post-view__body {
+  margin-bottom: 1rem;
+  margin-top: 1rem;
+}
+
+.post-view__content {
+
+}

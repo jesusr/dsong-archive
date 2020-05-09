@@ -1,0 +1,32 @@
+.header {
+  margin-bottom: 2rem;
+  text-align: center;
+}
+
+.header__logo-container {
+
+}
+
+.header__logo {
+  width: 110px !important;
+}
+
+.header__logo-headline {
+  font-size: .8rem;
+  font-style: italic;
+}
+
+.header__menu {
+  margin: 1rem 0;
+}
+
+.header__menu--item {
+  display: inline;
+  padding: .5rem;
+  vertical-align: middle;
+}
+
+.header__menu--dices {
+  width: 16px;
+  vertical-align: middle;
+}
