@@ -1,8 +1,5 @@
 module.exports = {
-  publicPath: process.env.NODE_ENV === 'production'
-    ? '/dsong-archive/'
-    : '/',
-
+  publicPath: '/',
   pluginOptions: {
     'style-resources-loader': {
       preProcessor: 'scss',

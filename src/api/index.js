@@ -1,8 +1,6 @@
 import axios from "axios";
 
-const DATA_BASE_URL = process.env.NODE_ENV === 'production'
-  ? '/dsong-archive/data'
-  : '/data'
+const DATA_BASE_URL = '/data'
 
 export default {
   fetchIndex() {
