@@ -1,6 +1,6 @@
 <template>
-  <div>
-    <post-view :value="featuredPost" />
+  <div class="home">
+    <post-view v-if="featuredPost" :value="featuredPost" />
   </div>
 </template>
 
@@ -17,7 +17,7 @@ export default {
   data() {
     return {
       posts: [],
-      featuredPost: new Post()
+      featuredPost: null
     }
   },
 
