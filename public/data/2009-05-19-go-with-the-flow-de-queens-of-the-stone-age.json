@@ -22,7 +22,7 @@
     {
       "id": 10,
       "published_at": "2009-05-19 13:42:15 +0200",
-      "content": "Muy buena recomendación Jose. De Queens of the Stone Age siempre me ha encantao <a href=\"http://open.spotify.com/track/5VVuxxuQIJD0pjjFls1DKL\" rel=\"nofollow\">No One Knows</a>, que es otro temazo. Además mi hermano con los American Carnachas han versionado algún tema de estos, aunque ahora no recuerdo muy bien cuál...\r\nEn resumen, que me han encantao. A ver si desde nuestra humildad damos un poco de cultura musical a este mundo que tantas veces parece necesitarlo.",
+      "content": "Muy buena recomendación Jose. De Queens of the Stone Age siempre me ha encantao <a href=\"https://open.spotify.com/embed/track/5VVuxxuQIJD0pjjFls1DKL\" rel=\"nofollow\">No One Knows</a>, que es otro temazo. Además mi hermano con los American Carnachas han versionado algún tema de estos, aunque ahora no recuerdo muy bien cuál...\r\nEn resumen, que me han encantao. A ver si desde nuestra humildad damos un poco de cultura musical a este mundo que tantas veces parece necesitarlo.",
       "author": {
         "name": "Poncho"
       }
@@ -53,7 +53,7 @@
     "category": "Canciones",
     "genre": "Stoner Rock",
     "song": "Go with the flow",
-    "spotify_link": "http://open.spotify.com/track/5TrQVpUfOIemdesGkGxB7a",
+    "spotify_link": "https://open.spotify.com/embed/track/5TrQVpUfOIemdesGkGxB7a",
     "year": "2002"
   }
 }

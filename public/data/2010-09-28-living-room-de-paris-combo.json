@@ -54,7 +54,7 @@
     {
       "id": 1850,
       "published_at": "2010-09-28 22:47:39 +0200",
-      "content": "No dejo de sorprenderme con algunas de las recomendaciones que hacéis, compis dSongeros. Me la añado a mi lista de favoritos de Spotify :-)\r\n\r\n@beita están pero el álbum de esta canción no. De todos modos hay una versión en directo: http://open.spotify.com/track/3B7VFfwzmUVHq9gfksaKku\r\n\r\nSi quieres añádela al artículo :-)",
+      "content": "No dejo de sorprenderme con algunas de las recomendaciones que hacéis, compis dSongeros. Me la añado a mi lista de favoritos de Spotify :-)\r\n\r\n@beita están pero el álbum de esta canción no. De todos modos hay una versión en directo: https://open.spotify.com/embed/track/3B7VFfwzmUVHq9gfksaKku\r\n\r\nSi quieres añádela al artículo :-)",
       "author": {
         "name": "skuark",
         "url": "http://www.skuark.com/"
@@ -67,7 +67,7 @@
     "artist_url": "http://pariscombo.artistes.universalmusic.fr/",
     "category": "Canciones",
     "song": "Living Room",
-    "spotify_link": "http://open.spotify.com/track/3B7VFfwzmUVHq9gfksaKku",
+    "spotify_link": "https://open.spotify.com/embed/track/3B7VFfwzmUVHq9gfksaKku",
     "year": "1997"
   }
 }
