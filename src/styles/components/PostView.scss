@@ -57,3 +57,38 @@
 .post-view__content {
 
 }
+
+.post-view__youtube {
+  margin: 1rem 0;
+
+  h3 {
+    font-size: 1.2rem;
+    font-weight: bold;
+    margin-bottom: 1rem;
+  }
+}
+
+.post-view__youtube-container {
+  height: 0;
+  padding-bottom: 56.25%;
+  position: relative;
+  width: 100%;
+
+  iframe {
+    height: 100%;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 100%;
+  }
+}
+
+.post-view__spotify {
+  margin: 1rem 0;
+
+  h3 {
+    font-size: 1.2rem;
+    font-weight: bold;
+    margin-bottom: 1rem;
+  }
+}

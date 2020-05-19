@@ -70,7 +70,31 @@ export default class Post {
     return this._author.url
   }
 
+  get hasYouTubePlayer() {
+    return !!this.youtubeCode()
+  }
+
+  get youTubePlayerAsHtml() {
+    return `<iframe width="100%" height="315" src="https://www.youtube.com/embed/${this.youtubeCode()}" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>`
+  }
+
+  get hasSpotifyPlayer() {
+    return !!this.spotifyLink()
+  }
+
+  get spotifyPlayerAsHtml() {
+    return `<iframe src="${this.spotifyLink()}" width="100%" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>`
+  }
+
   authorGravatarUrl(size = 80) {
     return `${this._author.gravatarUrl}?s=${size}`
+  }
+
+  youtubeCode() {
+    return this.metadata['youtube_code']
+  }
+
+  spotifyLink() {
+    return this.metadata['spotify_link']
   }
 }

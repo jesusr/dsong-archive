@@ -29,6 +29,18 @@
     <div class="post-view__body">
       <div class="post-view__content" v-html="value.contentAsHtml" />
     </div>
+
+    <div v-if="value.hasYouTubePlayer" class="post-view__youtube">
+      <h3>Reproducir en YouTube</h3>
+      <div class="post-view__youtube-container">
+        <div v-html="value.youTubePlayerAsHtml" />
+      </div>
+    </div>
+
+    <div v-if="value.hasSpotifyPlayer" class="post-view__spotify">
+      <h3>Reproducir en Spotify</h3>
+      <div v-html="value.spotifyPlayerAsHtml" />
+    </div>
   </div>
 </template>
 
