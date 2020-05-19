@@ -13,11 +13,11 @@ import './styles/general.scss'
 Vue.config.productionTip = false
 
 const routes = [
-  { path: '/', component: Home },
+  { name: 'home', path: '/', component: Home },
   { name: 'archive-post', path: '/archivo/:postId', component: ArchivePost },
-  { path: '/acerca-de', component: About },
-  { path: '/archivo', component: Archive },
-  { path: '/suerte', component: Lucky }
+  { name: 'about', path: '/acerca-de', component: About },
+  { name: 'archive', path: '/archivo', component: Archive },
+  { name: 'lucky', path: '/suerte', component: Lucky }
 ]
 const router = new VueRouter({ routes })
 

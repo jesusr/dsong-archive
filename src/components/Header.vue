@@ -6,9 +6,10 @@
     </div>
 
     <ul class="header__menu">
-      <li class="header__menu--item"><router-link to="/acerca-de">Acerca de</router-link></li>
-      <li class="header__menu--item"><router-link to="/archivo">Archivo</router-link></li>
-      <li class="header__menu--item"><router-link to="/suerte"><img src="../assets/dices.png" alt="Dados" class="header__menu--dices"> Voy a tener suerte</router-link></li>
+      <li class="header__menu--item"><router-link :to="{ name: 'home' }">Inicio</router-link></li>
+      <li class="header__menu--item"><router-link :to="{ name: 'about' }">Acerca de</router-link></li>
+      <li class="header__menu--item"><router-link :to="{ name: 'archive' }">Archivo</router-link></li>
+      <li class="header__menu--item"><router-link :to="{ name: 'lucky' }"><img src="../assets/dices.png" alt="Dados" class="header__menu--dices"> Voy a tener suerte</router-link></li>
     </ul>
   </div>
 </template>
