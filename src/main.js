@@ -17,7 +17,7 @@ const routes = [
   { name: 'archive-post', path: '/archivo/:postId', component: ArchivePost, meta: { title: 'Post' } },
   { name: 'about', path: '/acerca-de', component: About, meta: { title: 'Acerca de' } },
   { name: 'archive', path: '/archivo', component: Archive, meta: { title: 'Archivo' } },
-  { name: 'lucky', path: '/suerte', component: Lucky, meta: { title: 'Suerte!' } }
+  { name: 'lucky', path: '/suerte', component: Lucky, meta: { title: '¡Suerte!' } }
 ]
 const router = new VueRouter({ routes })
 
