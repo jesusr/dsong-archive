@@ -7,6 +7,15 @@
   font-size: 2rem;
   line-height: 1.2;
   margin-bottom: 1rem;
+
+  a {
+    color: $black;
+    text-decoration: none;
+
+    &:hover {
+      text-decoration: underline;
+    }
+  }
 }
 
 .post-view__meta {
@@ -31,6 +40,12 @@
 }
 
 .post-view__date {
+  vertical-align: middle;
+  margin-right: 1rem;
+}
+
+.post-view__permalink {
+  display: inline-block;
   vertical-align: middle;
 }
 

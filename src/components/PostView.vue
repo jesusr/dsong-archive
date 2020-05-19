@@ -1,6 +1,9 @@
 <template>
   <div class="post-view">
-    <h2 class="post-view__title">{{ value.title }}</h2>
+    <h2 v-if="linkToArchive" class="post-view__title">
+      <router-link :to="`/archivo/${value.id}`">{{ value.title }}</router-link>
+    </h2>
+    <h2 v-else class="post-view__title">{{ value.title }}</h2>
 
     <div class="post-view__meta">
       <span>
@@ -16,6 +19,10 @@
         </span>
 
         <span class="post-view__date">{{ value.publishedAt }}</span>
+
+        <span v-if="linkToArchive" class="post-view__permalink">
+          <router-link :to="`/archivo/${value.id}`">Enlace permanente</router-link>
+        </span>
       </span>
     </div>
 
@@ -32,7 +39,12 @@ export default {
   props: {
     value: {
       type: Post,
-      required: true
+      required: true,
+    },
+    linkToArchive: {
+      type: Boolean,
+      required: false,
+      default: false
     }
   }
 }

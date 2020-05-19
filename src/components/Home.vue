@@ -1,6 +1,6 @@
 <template>
   <div class="home">
-    <post-view v-if="featuredPost" :value="featuredPost" />
+    <post-view v-if="featuredPost" :value="featuredPost" :linkToArchive="true" />
   </div>
 </template>
 
