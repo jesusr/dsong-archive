@@ -74,8 +74,3 @@ export default class Post {
     return `${this._author.gravatarUrl}?s=${size}`
   }
 }
-
-Post.array = (posts) => {
-  if (!posts) return []
-  return posts.map(data => new Post(data))
-}

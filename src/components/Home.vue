@@ -16,25 +16,29 @@ export default {
 
   data() {
     return {
-      posts: [],
+      postsIndex: [],
       featuredPost: null
     }
   },
 
   async created() {
-    const response = await api.fetchIndex()
-    this.posts = Post.array(response.data.map(id => { return { id: id } }))
+    await this.fetchIndex()
     this.fetchFeaturedPost()
   },
 
   methods: {
+    fetchIndex: async function() {
+      const response = await api.fetchIndex()
+      this.postsIndex = response.data
+    },
+
     fetchFeaturedPost: async function() {
       await api.fetchPost(this.randomPostId())
         .then((response) => { this.featuredPost = new Post(response.data) })
     },
 
     randomPostId() {
-      return this.posts[Math.floor(Math.random() * this.posts.length)].id
+      return this.postsIndex[Math.floor(Math.random() * this.postsIndex.length)]
     }
   }
 }
