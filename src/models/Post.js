@@ -4,8 +4,6 @@ import MarkdownIt from "markdown-it"
 import parseISO from 'date-fns/parseISO'
 import { format } from 'date-fns'
 
-const IMAGE_BASE_URL = "http://dsong.skuark.com/wp-content/uploads"
-
 export default class Post {
   constructor(attributes = {}) {
     this._id = attributes.id
@@ -13,7 +11,6 @@ export default class Post {
       ? parseISO(attributes.published_at)
       : this._publishedAt = null
     this._title = attributes.title
-    this._imagePath = attributes.image_path
     this._content = attributes.content || ""
     this._author = new Author(attributes.author)
     this._comments = new Comment.array(attributes.comments)
@@ -31,14 +28,6 @@ export default class Post {
 
   get title() {
     return this._title
-  }
-
-  get imagePath() {
-    return this._imagePath
-  }
-
-  get imageUrl() {
-    return `${IMAGE_BASE_URL}/${this.imagePath}`
   }
 
   get content() {
