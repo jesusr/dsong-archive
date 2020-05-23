@@ -75,7 +75,7 @@ export default class Post {
   }
 
   get youTubePlayerAsHtml() {
-    return `<iframe width="100%" height="315" src="https://www.youtube.com/embed/${this.youtubeCode()}" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>`
+    return `<iframe src="https://www.youtube.com/embed/${this.youtubeCode()}" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>`
   }
 
   get hasSpotifyPlayer() {
