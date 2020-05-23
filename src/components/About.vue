@@ -10,7 +10,7 @@
 
     <p>Si encuentras alguna errata, enlaces rotos o algún reproductor que no funciona puedes <a href="https://github.com/skuark/dsong-archive" target="_blank">abrir una issue o mandar un PR en GitHub</a> para corregirlo.</p>
 
-    <p>Todos los contenidos de este sitio están publicado bajo licencia <a href="https://creativecommons.org/licenses/by-nc-sa/3.0/es/" target="_blank">«Creative Commons Reconocimiento-No comercial-Compartir bajo la misma licencia 3.0 España»</a>. Puedes darle un uso no comercial, siempre y cuando reconozcas la autoría y compartas con el mismo tipo de licencia.</p>
+    <p>Todos los contenidos de este sitio están publicados bajo licencia <a href="https://creativecommons.org/licenses/by-nc-sa/3.0/es/" target="_blank">«Creative Commons Reconocimiento-No comercial-Compartir bajo la misma licencia 3.0 España»</a>. Puedes darle un uso no comercial, siempre y cuando reconozcas la autoría y compartas con el mismo tipo de licencia.</p>
   </div>
 </template>
 
