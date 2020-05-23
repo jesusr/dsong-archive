@@ -70,6 +70,14 @@ export default class Post {
     return this._author.url
   }
 
+  get hasPodcast() {
+    return !!this.podcastFile()
+  }
+
+  get podcastPlayerAsHtml() {
+    return `<audio controls src="https://dsongstatic.jesusmagamu.dev/mp3/podcast/${this.podcastFile()}">Tu navegador no soporta este tipo de reproductor</audio>`
+  }
+
   get hasYouTubePlayer() {
     return !!this.youtubeCode()
   }
@@ -88,6 +96,10 @@ export default class Post {
 
   authorGravatarUrl(size = 80) {
     return `${this._author.gravatarUrl}?s=${size}`
+  }
+
+  podcastFile() {
+    return this.metadata['podcast_file']
   }
 
   youtubeCode() {

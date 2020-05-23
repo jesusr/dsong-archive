@@ -30,15 +30,20 @@
       <div class="post-view__content" v-html="value.contentAsHtml" />
     </div>
 
-    <div v-if="value.hasYouTubePlayer" class="post-view__youtube">
-      <h3>Reproducir en YouTube</h3>
-      <div class="post-view__youtube-container">
+    <div v-if="value.hasPodcast" class="post-view__media post-view__media--podcast">
+      <h3 class="post-view__subtitle">Reproducir el podcast de UniRadio Jaén</h3>
+      <div v-html="value.podcastPlayerAsHtml" />
+    </div>
+
+    <div v-if="value.hasYouTubePlayer" class="post-view__media post-view__media--youtube">
+      <h3 class="post-view__subtitle">Reproducir en YouTube</h3>
+      <div class="post-view__media-container">
         <div v-html="value.youTubePlayerAsHtml" />
       </div>
     </div>
 
-    <div v-if="value.hasSpotifyPlayer" class="post-view__spotify">
-      <h3>Reproducir en Spotify</h3>
+    <div v-if="value.hasSpotifyPlayer" class="post-view__media post-view__media--spotify">
+      <h3 class="post-view__subtitle">Reproducir en Spotify</h3>
       <div v-html="value.spotifyPlayerAsHtml" />
     </div>
   </div>

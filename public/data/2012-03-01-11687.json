@@ -43,7 +43,7 @@
     "artist_url": "http://www.djangodjango.co.uk/",
     "category": "Canciones",
     "genre": "Electro",
-    "podcast_url": "http://dsong.skuark.com/wp-content/uploads/mp3/podcast/dsong.es_20120301.mp3",
+    "podcast_file": "dsong.es_20120301.mp3",
     "song": "Default",
     "spotify_link": "https://open.spotify.com/embed/track/45u89A07YEku6NRlwyvkLJ",
     "year": "2012",
