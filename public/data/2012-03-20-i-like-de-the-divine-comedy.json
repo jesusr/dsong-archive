@@ -10,7 +10,6 @@
   },
   "comments": [
     {
-      "id": 4892,
       "published_at": "2012-03-21 18:48:00 +0100",
       "content": "¡Enhorabuena y bienvenida, Ascen! un abrazo.",
       "author": {
@@ -18,7 +17,6 @@
       }
     },
     {
-      "id": 4893,
       "parent": 4892,
       "published_at": "2012-03-24 00:10:47 +0100",
       "content": "¡Gracias, Silvia! ;)",
@@ -27,7 +25,6 @@
       }
     },
     {
-      "id": 4897,
       "published_at": "2012-03-27 16:25:00 +0200",
       "content": "Muy buen estreno, Ascen. No puedo decir más que \"I like it!\" ",
       "author": {
@@ -35,7 +32,6 @@
       }
     },
     {
-      "id": 4914,
       "parent": 4897,
       "published_at": "2012-04-14 21:33:54 +0200",
       "content": "¡Gracias! Me gusta que te guste :P",

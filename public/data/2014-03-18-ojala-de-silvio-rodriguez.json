@@ -10,7 +10,6 @@
   },
   "comments": [
     {
-      "id": 5689,
       "published_at": "2014-03-18 15:50:00 +0100",
       "content": "Anonadado me hallo de que no se hubiera escrito sobre este tema antes en dSong. Pero qué mejor manera de escribir un artículo que ésta. Genial post.",
       "author": {
@@ -18,7 +17,6 @@
       }
     },
     {
-      "id": 5690,
       "parent": 5689,
       "published_at": "2014-03-18 17:17:00 +0100",
       "content": "Gracias Álvaro. A mi también me resultó raro, la busqué antes de escribir el artículo dando por hecho que ya se habría recomendado y que no me acordaba, pero ya vi que no :-)",

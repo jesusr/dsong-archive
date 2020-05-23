@@ -10,7 +10,6 @@
   },
   "comments": [
     {
-      "id": 455,
       "published_at": "2009-10-03 17:20:59 +0200",
       "content": "Una canción que alguna vez todos hemos escuchado...",
       "author": {
@@ -18,7 +17,6 @@
       }
     },
     {
-      "id": 456,
       "published_at": "2009-10-03 23:01:43 +0200",
       "content": "Jose, yo tengo una teoría al respecto. Sea n el número de veces que hemos escuchado esta canción, entonces n=k dónde k representa al número de veces que hemos sintonizado Kiss FM.",
       "author": {
@@ -27,7 +25,6 @@
       }
     },
     {
-      "id": 457,
       "published_at": "2009-10-04 09:43:59 +0200",
       "content": "Entonces skuark estamos hablando de un momento Kiss en toda regla. :-P",
       "author": {

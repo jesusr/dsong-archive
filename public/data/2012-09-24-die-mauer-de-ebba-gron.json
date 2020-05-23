@@ -10,7 +10,6 @@
   },
   "comments": [
     {
-      "id": 5050,
       "published_at": "2012-09-24 20:53:00 +0200",
       "content": "Mi artículo, que chulo!! Muchas gracias, chicos :)",
       "author": {
@@ -18,7 +17,6 @@
       }
     },
     {
-      "id": 5051,
       "parent": 5050,
       "published_at": "2012-09-24 21:37:00 +0200",
       "content": "¿Gracias a nosotros? Gracias a ti Josefine por colaborar con dSong :-)",

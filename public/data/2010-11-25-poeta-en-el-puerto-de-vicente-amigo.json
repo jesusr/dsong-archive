@@ -10,7 +10,6 @@
   },
   "comments": [
     {
-      "id": 2061,
       "published_at": "2010-11-25 09:45:19 +0100",
       "content": "Ya lo conocia pero no habia escuchado esta canción. La he escuchado varias veces y me parece muy buena. Gracias por dárnosla a conocer.",
       "author": {
@@ -18,7 +17,6 @@
       }
     },
     {
-      "id": 5524,
       "published_at": "2013-05-08 12:53:00 +0200",
       "content": "Estupendo Vicente Amigo. Por cierto, acaba de sacar nuevo disco, \"Tierra\", altamente recomendable!",
       "author": {
@@ -27,7 +25,6 @@
       }
     },
     {
-      "id": 5525,
       "parent": 5524,
       "published_at": "2013-05-08 12:56:00 +0200",
       "content": "Gracias Alberto, no sabía que andase preparando nuevo disco. Me lo apunto para darle una escucha.",

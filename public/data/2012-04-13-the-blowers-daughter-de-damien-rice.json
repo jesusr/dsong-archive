@@ -10,7 +10,6 @@
   },
   "comments": [
     {
-      "id": 4909,
       "published_at": "2012-04-13 12:49:00 +0200",
       "content": "No me esperaba esta recomendación de ti, la verdad :) Pero me encanta eh, me encanta",
       "author": {
@@ -18,7 +17,6 @@
       }
     },
     {
-      "id": 4910,
       "parent": 4909,
       "published_at": "2012-04-13 13:05:00 +0200",
       "content": "Ya lo sé, cabronazo. De ahí mi primer párrafo ",
@@ -27,7 +25,6 @@
       }
     },
     {
-      "id": 4927,
       "parent": 4910,
       "published_at": "2012-04-18 13:06:00 +0200",
       "content": "Este disco me lo trajo mi hermano el año que salió porque vivía en Irlanda, y esta bien... Pero 1 hora escuchando al hombre este y acabas teniendo tendencias suicidas.",

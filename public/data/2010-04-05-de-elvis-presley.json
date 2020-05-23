@@ -10,7 +10,6 @@
   },
   "comments": [
     {
-      "id": 1167,
       "published_at": "2010-04-05 15:46:11 +0200",
       "content": "Canción maravillosa, que suena mejor en la estupenda voz del rey. Viva Elvis por siempre",
       "author": {
@@ -18,7 +17,6 @@
       }
     },
     {
-      "id": 1168,
       "published_at": "2010-04-05 16:52:32 +0200",
       "content": "Buenísima, pero es que todo lo de Elvis es muy bueno. Luisk esto no sabía que te gustaba. También muy bueno el texto.",
       "author": {
@@ -26,7 +24,6 @@
       }
     },
     {
-      "id": 1169,
       "published_at": "2010-04-05 17:04:01 +0200",
       "content": "el siempre espectacular!",
       "author": {
@@ -35,7 +32,6 @@
       }
     },
     {
-      "id": 1170,
       "published_at": "2010-04-07 09:03:55 +0200",
       "content": "Gracias por la canción, pero no hacía falta, ya lo sé ;) jajjaja :P",
       "author": {
@@ -43,7 +39,6 @@
       }
     },
     {
-      "id": 1171,
       "published_at": "2010-04-07 15:23:54 +0200",
       "content": "Tiene merito todo lo que escribes con un solo brazo jejejeje.\r\nY mañana no me digas que no puedes implementar el controlador jajajajaja",
       "author": {

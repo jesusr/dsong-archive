@@ -10,7 +10,6 @@
   },
   "comments": [
     {
-      "id": 5712,
       "published_at": "2014-05-30 12:13:00 +0200",
       "content": "Recuerdo el vídeo de su primera interpretación y me quedé ojiplático. Espectacular.",
       "author": {
@@ -18,7 +17,6 @@
       }
     },
     {
-      "id": 5714,
       "parent": 5712,
       "published_at": "2014-05-30 12:31:00 +0200",
       "content": "¿No es el que hay en el artículo? A Hopkins se le ve emocionadísimo. Si es otro, pásamelo, please",
@@ -27,7 +25,6 @@
       }
     },
     {
-      "id": 5722,
       "parent": 5714,
       "published_at": "2014-06-07 17:55:00 +0200",
       "content": "Sí, cierto, es que no vi que la entrada tenía video ;)",

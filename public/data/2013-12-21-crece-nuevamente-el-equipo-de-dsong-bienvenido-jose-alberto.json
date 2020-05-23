@@ -10,7 +10,6 @@
   },
   "comments": [
     {
-      "id": 5649,
       "published_at": "2013-12-21 12:15:00 +0100",
       "content": "El placer es mío. ¡Que empiece la fiesta!",
       "author": {
@@ -18,7 +17,6 @@
       }
     },
     {
-      "id": 5651,
       "parent": 5649,
       "published_at": "2013-12-22 00:11:00 +0100",
       "content": "Sé oficialmente bienvenido a esta pequeña familia musical :)",

@@ -10,7 +10,6 @@
   },
   "comments": [
     {
-      "id": 4901,
       "published_at": "2012-04-05 12:45:00 +0200",
       "content": "Que temazo :-) Ciertamente aún no había caído nada de Aerosmith. Nunca es tarde si la dicha es buena.",
       "author": {
@@ -18,7 +17,6 @@
       }
     },
     {
-      "id": 4905,
       "parent": 4901,
       "published_at": "2012-04-08 01:45:00 +0200",
       "content": " ¡Desde luego!",

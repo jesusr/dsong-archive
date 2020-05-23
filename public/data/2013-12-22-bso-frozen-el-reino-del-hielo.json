@@ -10,7 +10,6 @@
   },
   "comments": [
     {
-      "id": 5659,
       "published_at": "2014-01-04 18:42:00 +0100",
       "content": "Una maravilla la banda sonora de la película, hay canciones realmente buenas, mi favorita es \"Hazme un muñeco de nieve\". Píxar ha vuelto un poco a sus orígenes con esta cinta.",
       "author": {
@@ -18,7 +17,6 @@
       }
     },
     {
-      "id": 5710,
       "parent": 5659,
       "published_at": "2014-05-30 12:09:00 +0200",
       "content": "Me temo que no es de Pixar. Por una vez parece que Disney se las ha arreglado sin su sección de Pixar para ganar un Oscar ;)",
@@ -27,7 +25,6 @@
       }
     },
     {
-      "id": 5716,
       "parent": 5710,
       "published_at": "2014-05-30 18:46:00 +0200",
       "content": "Coooooooorrecto.",

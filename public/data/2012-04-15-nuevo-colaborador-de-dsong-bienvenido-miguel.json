@@ -10,7 +10,6 @@
   },
   "comments": [
     {
-      "id": 4918,
       "published_at": "2012-04-15 19:35:00 +0200",
       "content": "Bienvenido Miguel, esta es tu casa ;-)",
       "author": {
@@ -18,7 +17,6 @@
       }
     },
     {
-      "id": 4921,
       "parent": 4918,
       "published_at": "2012-04-16 12:24:00 +0200",
       "content": "Sé más que bienvenido :)",

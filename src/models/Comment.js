@@ -1,10 +1,14 @@
 import Author from './Author'
+import parseISO from 'date-fns/parseISO'
+import { format } from 'date-fns'
 
 export default class Comment {
   constructor(attributes = {}) {
     this._id = attributes.id
     this._parent = attributes.parent
-    this._publishedAt = attributes.published_at
+    this._publishedAt = attributes.published_at !== undefined
+      ? parseISO(attributes.published_at)
+      : this._publishedAt = null
     this._content = attributes.content
     this._author = new Author(attributes.author)
   }
@@ -18,7 +22,8 @@ export default class Comment {
   }
 
   get publishedAt() {
-    return this._publishedAt
+    if (!this._publishedAt) { return "" }
+    return format(this._publishedAt, "dd/MM/yyyy hh:mm")
   }
 
   get content() {
@@ -27,6 +32,14 @@ export default class Comment {
 
   get author() {
     return this._author
+  }
+
+  get authorName() {
+    return this.author.name
+  }
+
+  get authorUrl() {
+    return this.author.url
   }
 }
 

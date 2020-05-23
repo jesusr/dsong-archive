@@ -1,6 +1,6 @@
 <template>
   <div class="post-view">
-    <h2 v-if="linkToArchive" class="post-view__title">
+    <h2 v-if="!fullView" class="post-view__title">
       <router-link :to="`/archivo/${value.id}`">{{ value.title }}</router-link>
     </h2>
     <h2 v-else class="post-view__title">{{ value.title }}</h2>
@@ -20,15 +20,17 @@
 
         <span class="post-view__date">{{ value.publishedAt }}</span>
 
-        <span v-if="linkToArchive" class="post-view__permalink">
+        <span v-if="value.commentsCount === 0" class="post-view__comments-count">Sin comentarios</span>
+        <span v-else-if="value.commentsCount === 1" class="post-view__comments-count">{{ value.commentsCount }} comentario</span>
+        <span v-else-if="value.commentsCount > 1" class="post-view__comments-count">{{ value.commentsCount }} comentarios</span>
+
+        <span v-if="!fullView" class="post-view__permalink">
           <router-link :to="`/archivo/${value.id}`">Enlace permanente</router-link>
         </span>
       </span>
     </div>
 
-    <div class="post-view__body">
-      <div class="post-view__content" v-html="value.contentAsHtml" />
-    </div>
+    <div class="post-view__content" v-html="value.contentAsHtml" />
 
     <div v-if="value.hasPodcast" class="post-view__media post-view__media--podcast">
       <h3 class="post-view__subtitle">Reproducir el podcast de UniRadio Jaén</h3>
@@ -46,6 +48,29 @@
       <h3 class="post-view__subtitle">Reproducir en Spotify</h3>
       <div v-html="value.spotifyPlayerAsHtml" />
     </div>
+
+    <div v-if="fullView && value.hasComments" class="post-view__comments">
+      <h3 class="post-view__subtitle">Comentarios</h3>
+      <ul>
+        <li v-for="comment in value.comments" :key="comment.authorName" class="post-view__comment">
+          <div class="post-view__comment-content">{{ comment.content }}</div>
+
+          <div class="post-view__comment-meta">
+            <span class="post-view__comment-author">
+              —
+              <a v-if="comment.authorUrl" :href="comment.authorUrl" target="blank">
+                <span class="post-view__comment-author-name">{{ comment.authorName }}</span>
+              </a>
+              <span v-else>
+                <span class="post-view__comment-author-name">{{ comment.authorName }}</span>
+              </span>
+            </span>
+
+            <span class="post-view__comment-date">{{ comment.publishedAt }}</span>
+          </div>
+        </li>
+      </ul>
+    </div>
   </div>
 </template>
 
@@ -58,10 +83,10 @@ export default {
       type: Post,
       required: true,
     },
-    linkToArchive: {
+    fullView: {
       type: Boolean,
       required: false,
-      default: false
+      default: true
     }
   }
 }

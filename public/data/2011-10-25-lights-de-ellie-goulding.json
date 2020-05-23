@@ -10,7 +10,6 @@
   },
   "comments": [
     {
-      "id": 4729,
       "published_at": "2011-10-25 16:20:00 +0200",
       "content": "Mola el tema. Tienes razón, no te pega :-P",
       "author": {
@@ -19,7 +18,6 @@
       }
     },
     {
-      "id": 5056,
       "published_at": "2012-10-03 03:12:00 +0200",
       "content": "¿Has escuchado su nueva canción: Anything could happen? Salió hará un mes o dos y también está bastante bien.",
       "author": {
@@ -28,7 +26,6 @@
       }
     },
     {
-      "id": 5058,
       "parent": 5056,
       "published_at": "2012-10-03 13:02:00 +0200",
       "content": "No la había escuchado. No suena mal, aunque el otro día estuve viendo el concierto de Ellie en el iTunes Festival y en directo es un pelín soseta.",
@@ -37,7 +34,6 @@
       }
     },
     {
-      "id": 5061,
       "parent": 5058,
       "published_at": "2012-10-03 15:21:00 +0200",
       "content": "Aquí Anything could happen está sonando mucho porque sale en un anuncio de la tele",

@@ -10,7 +10,6 @@
   },
   "comments": [
     {
-      "id": 4776,
       "published_at": "2011-12-04 12:10:00 +0100",
       "content": "DISCAZO....",
       "author": {
@@ -18,7 +17,6 @@
       }
     },
     {
-      "id": 4777,
       "published_at": "2011-12-04 12:12:00 +0100",
       "content": "Es más, no es que Beck se mueva en un estilo concreto jamás, es todo experimental.......eso si, con mucho ritmo.....",
       "author": {
@@ -26,7 +24,6 @@
       }
     },
     {
-      "id": 4779,
       "parent": 4776,
       "published_at": "2011-12-04 19:41:00 +0100",
       "content": "por supuesto!",

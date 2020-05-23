@@ -43,8 +43,16 @@ export default class Post {
     return this._author
   }
 
+  get hasComments() {
+    return this.comments.length > 0
+  }
+
   get comments() {
     return this._comments
+  }
+
+  get commentsCount() {
+    return this.comments.length
   }
 
   get metadata() {
