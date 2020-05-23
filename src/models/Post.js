@@ -76,11 +76,11 @@ export default class Post {
   }
 
   get hasSpotifyPlayer() {
-    return !!this.spotifyLink()
+    return !!this.spotifyUrl()
   }
 
   get spotifyPlayerAsHtml() {
-    return `<iframe src="${this.spotifyLink()}" width="100%" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>`
+    return `<iframe src="${this.spotifyUrl()}" width="100%" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>`
   }
 
   authorGravatarUrl(size = 80) {
@@ -95,7 +95,7 @@ export default class Post {
     return this.metadata['youtube_code']
   }
 
-  spotifyLink() {
-    return this.metadata['spotify_link']
+  spotifyUrl() {
+    return this.metadata['spotify_url']
   }
 }
