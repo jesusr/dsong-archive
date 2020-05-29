@@ -1,8 +1,8 @@
 <template>
-  <div class="app">
+  <div :class="'app page-' + pageName">
     <div class="app-wrapper">
       <Header />
-      <router-view></router-view>
+      <router-view v-on:set-page-name="setPageName"></router-view>
     </div>
   </div>
 </template>
@@ -10,11 +10,33 @@
 <script>
 import Header from "./components/Header.vue"
 
+const DEFAULT_PAGE_NAME = 'undefined'
+
 export default {
   name: 'App',
 
+  data() {
+    return {
+      pageName: DEFAULT_PAGE_NAME
+    }
+  },
+
   components: {
     Header
+  },
+
+  methods: {
+    setPageName(value) {
+      this.pageName = value
+    }
+  },
+
+  watch: {
+    $route(from, to) {
+      if (from.name !== to.name) {
+        this.pageName = DEFAULT_PAGE_NAME
+      }
+    }
   }
 }
 </script>

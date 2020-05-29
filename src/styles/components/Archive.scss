@@ -1,3 +1,75 @@
 .archive {
 
 }
+
+.archive-table {
+  border: 2px solid $black;
+  font-size: .8rem;
+  margin-bottom: 1rem;
+  table-layout: fixed;
+  width: 100%;
+
+  thead {
+    font-weight: bold;
+  }
+
+  th {
+    background: $black;
+    color: $white;
+    padding: .5rem;
+    position: sticky;
+    text-align: left;
+    top: -2px;
+  }
+
+  tr {
+    border-bottom: 1px solid $silver;
+
+    &:last-child {
+      border-bottom: none;
+    }
+  }
+
+  td {
+    padding: .5rem;
+  }
+}
+
+.archive-table__cell--published-at {
+  width: 8%;
+}
+
+.archive-table__cell--title {
+  width: 25%;
+}
+
+.archive-table__cell--song {
+  width: 15%;
+}
+
+.archive-table__cell--artist {
+  width: 12%;
+}
+
+.archive-table__cell--album {
+  width: 18%;
+}
+
+.archive-table__cell--year {
+  width: 10%;
+}
+
+.archive-table__cell--author {
+  width: 12%;
+}
+
+.archive-table__remove-filter {
+  text-decoration: none;
+
+  &:before {
+    content: " ❌";
+    font-size: .5rem;
+    margin-left: .2rem;
+    vertical-align: middle;
+  }
+}
