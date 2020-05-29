@@ -1,15 +1,5 @@
 [
   {
-    "id": "2009-05-13-bienvenido-a-dsong",
-    "published_at": "2009-05-13 21:18:53 +0200",
-    "title": "Bienvenido a dSong",
-    "author_name": "admin",
-    "metadata_song": null,
-    "metadata_artist": null,
-    "metadata_album": null,
-    "metadata_year": null
-  },
-  {
     "id": "2009-05-18-i-remember-de-damien-rice",
     "published_at": "2009-05-18 09:00:37 +0200",
     "title": "I remember, de Damien Rice",
@@ -68,16 +58,6 @@
     "metadata_artist": "Incubus",
     "metadata_album": "Light Grenades",
     "metadata_year": "2006"
-  },
-  {
-    "id": "2009-05-24-un-especial-para-cada-domingo",
-    "published_at": "2009-05-24 04:08:02 +0200",
-    "title": "Un especial para cada domingo",
-    "author_name": "admin",
-    "metadata_song": null,
-    "metadata_artist": null,
-    "metadata_album": null,
-    "metadata_year": null
   },
   {
     "id": "2009-05-24-especial-album-devil-dust-de-bruce-springsteen",
@@ -210,16 +190,6 @@
     "metadata_year": "1997"
   },
   {
-    "id": "2009-06-06-dsonges",
-    "published_at": "2009-06-06 03:13:40 +0200",
-    "title": "dSong.es ",
-    "author_name": "admin",
-    "metadata_song": null,
-    "metadata_artist": null,
-    "metadata_album": null,
-    "metadata_year": null
-  },
-  {
     "id": "2009-06-06-tus-huesos-de-havalina",
     "published_at": "2009-06-06 09:00:47 +0200",
     "title": "Tus Huesos, de Havalina",
@@ -338,16 +308,6 @@
     "metadata_artist": "Jamie Cullum",
     "metadata_album": "Catching Tales",
     "metadata_year": "2005"
-  },
-  {
-    "id": "2009-06-18-un-mes-y-algunas-novedades",
-    "published_at": "2009-06-18 02:06:40 +0200",
-    "title": "Un mes, y algunas novedades",
-    "author_name": "admin",
-    "metadata_song": null,
-    "metadata_artist": null,
-    "metadata_album": null,
-    "metadata_year": null
   },
   {
     "id": "2009-06-18-finding-out-true-love-is-blind-de-louis-xiv",
@@ -1040,16 +1000,6 @@
     "metadata_year": "1986"
   },
   {
-    "id": "2009-09-25-100-y-sumando",
-    "published_at": "2009-09-25 11:00:11 +0200",
-    "title": "¡100 y sumando!",
-    "author_name": "admin",
-    "metadata_song": null,
-    "metadata_artist": null,
-    "metadata_album": null,
-    "metadata_year": null
-  },
-  {
     "id": "2009-09-26-gasoline-de-kicking-harold",
     "published_at": "2009-09-26 09:00:54 +0200",
     "title": "Gasoline, de Kicking Harold",
@@ -1460,16 +1410,6 @@
     "metadata_year": "2002"
   },
   {
-    "id": "2009-11-06-adios-jose-duenas-hola-luizcarlos",
-    "published_at": "2009-11-06 01:00:53 +0100",
-    "title": "Adios Jose Dueñas, Hola luizcarlos",
-    "author_name": "admin",
-    "metadata_song": null,
-    "metadata_artist": null,
-    "metadata_album": null,
-    "metadata_year": null
-  },
-  {
     "id": "2009-11-06-en-el-campito-de-ofunkillo",
     "published_at": "2009-11-06 09:00:51 +0100",
     "title": "En el campito, de O'Funk'illo",
@@ -1750,16 +1690,6 @@
     "metadata_year": "2007"
   },
   {
-    "id": "2009-12-03-manifiesto-por-los-derechos-fundamentales-de-internet",
-    "published_at": "2009-12-03 12:23:21 +0100",
-    "title": "Manifiesto por los derechos fundamentales de Internet",
-    "author_name": "admin",
-    "metadata_song": null,
-    "metadata_artist": null,
-    "metadata_album": null,
-    "metadata_year": null
-  },
-  {
     "id": "2009-12-04-rock-the-casbah-de-the-clash",
     "published_at": "2009-12-04 09:00:33 +0100",
     "title": "Rock the Casbah, de The Clash",
@@ -1948,16 +1878,6 @@
     "metadata_artist": "Queen",
     "metadata_album": "Jazz",
     "metadata_year": "1978"
-  },
-  {
-    "id": "2009-12-22-un-nuevo-colaborador-david",
-    "published_at": "2009-12-22 21:47:40 +0100",
-    "title": "Un nuevo colaborador: David",
-    "author_name": "admin",
-    "metadata_song": null,
-    "metadata_artist": null,
-    "metadata_album": null,
-    "metadata_year": null
   },
   {
     "id": "2009-12-23-stargaze-de-xavier-rudd",
@@ -3060,16 +2980,6 @@
     "metadata_year": "2008"
   },
   {
-    "id": "2010-04-11-bienvenido-jacky",
-    "published_at": "2010-04-11 18:25:38 +0200",
-    "title": "Bienvenido, Jacky",
-    "author_name": "admin",
-    "metadata_song": null,
-    "metadata_artist": null,
-    "metadata_album": null,
-    "metadata_year": null
-  },
-  {
     "id": "2010-04-12-respect-de-aretha-franklin",
     "published_at": "2010-04-12 09:00:32 +0200",
     "title": "Respect, de Aretha Franklin",
@@ -3218,16 +3128,6 @@
     "metadata_artist": "Sigur Rós",
     "metadata_album": "Ágætis byrjun",
     "metadata_year": "1999"
-  },
-  {
-    "id": "2010-04-26-buscamos-una-colaboradora-bienvenidas-al-factor-dsong",
-    "published_at": "2010-04-26 12:00:23 +0200",
-    "title": "Buscamos una colaboradora, bienvenidas al Factor dSong",
-    "author_name": "admin",
-    "metadata_song": null,
-    "metadata_artist": null,
-    "metadata_album": null,
-    "metadata_year": null
   },
   {
     "id": "2010-04-27-el-limite-de-la-frontera",
@@ -3380,16 +3280,6 @@
     "metadata_year": null
   },
   {
-    "id": "2010-05-11-votaciones-para-la-eleccion-del-factor-dsong",
-    "published_at": "2010-05-11 12:00:16 +0200",
-    "title": "Votaciones para la elección del factor dSong",
-    "author_name": "admin",
-    "metadata_song": null,
-    "metadata_artist": null,
-    "metadata_album": null,
-    "metadata_year": null
-  },
-  {
     "id": "2010-05-12-esperando-nada-de-antonio-vega",
     "published_at": "2010-05-12 09:00:28 +0200",
     "title": "Esperando Nada, de Antonio Vega",
@@ -3438,16 +3328,6 @@
     "metadata_artist": null,
     "metadata_album": "Kill Bill Vol.1",
     "metadata_year": "2003"
-  },
-  {
-    "id": "2010-05-17-factor-dsong-and-the-winner-is",
-    "published_at": "2010-05-17 01:42:55 +0200",
-    "title": "Factor dSong: And the winner is...",
-    "author_name": "admin",
-    "metadata_song": null,
-    "metadata_artist": null,
-    "metadata_album": null,
-    "metadata_year": null
   },
   {
     "id": "2010-05-17-vertigo-de-estirpe",
@@ -3550,16 +3430,6 @@
     "metadata_year": "1991"
   },
   {
-    "id": "2010-05-27-bienvenida-beita",
-    "published_at": "2010-05-27 07:59:52 +0200",
-    "title": "Bienvenida, Beita",
-    "author_name": "admin",
-    "metadata_song": null,
-    "metadata_artist": null,
-    "metadata_album": null,
-    "metadata_year": null
-  },
-  {
     "id": "2010-05-27-pictures-of-you-de-the-cure",
     "published_at": "2010-05-27 08:00:31 +0200",
     "title": "Pictures of you, de The Cure",
@@ -3588,16 +3458,6 @@
     "metadata_artist": "Sôber",
     "metadata_album": "De aquí a la eternidad",
     "metadata_year": "2010"
-  },
-  {
-    "id": "2010-05-29-problema-con-el-correo-electronico",
-    "published_at": "2010-05-29 23:21:37 +0200",
-    "title": "Problema con el correo electrónico",
-    "author_name": "admin",
-    "metadata_song": null,
-    "metadata_artist": null,
-    "metadata_album": null,
-    "metadata_year": null
   },
   {
     "id": "2010-05-30-the-dark-knight-de-hans-zimmer",
@@ -3738,16 +3598,6 @@
     "metadata_artist": "O'Funk'illo",
     "metadata_album": "En el Planeta Aseituna",
     "metadata_year": "2003"
-  },
-  {
-    "id": "2010-06-13-retrasamos-nuestro-articulo-diario",
-    "published_at": "2010-06-13 13:20:37 +0200",
-    "title": "Retrasamos nuestro artículo diario",
-    "author_name": "admin",
-    "metadata_song": null,
-    "metadata_artist": null,
-    "metadata_album": null,
-    "metadata_year": null
   },
   {
     "id": "2010-06-13-especial-lagarto-festival-2010-cronica",
@@ -5330,16 +5180,6 @@
     "metadata_year": "1987"
   },
   {
-    "id": "2010-12-18-quedada-dsongera",
-    "published_at": "2010-12-18 17:12:38 +0100",
-    "title": "Quedada dSongera",
-    "author_name": "admin",
-    "metadata_song": null,
-    "metadata_artist": null,
-    "metadata_album": null,
-    "metadata_year": null
-  },
-  {
     "id": "2010-12-19-especial-navidad-2010",
     "published_at": "2010-12-19 09:00:18 +0100",
     "title": "Especial Navidad 2010",
@@ -5668,16 +5508,6 @@
     "metadata_artist": "Spoon",
     "metadata_album": "Kill the Moonlight",
     "metadata_year": "2002"
-  },
-  {
-    "id": "2011-01-21-bienvenido-johnbo",
-    "published_at": "2011-01-21 08:00:59 +0100",
-    "title": "Bienvenido, Johnbo!",
-    "author_name": "admin",
-    "metadata_song": null,
-    "metadata_artist": null,
-    "metadata_album": null,
-    "metadata_year": null
   },
   {
     "id": "2011-01-21-baker-street-de-gerry-rafferty",
@@ -6368,16 +6198,6 @@
     "metadata_artist": "Doves",
     "metadata_album": "Lost souls",
     "metadata_year": "2000"
-  },
-  {
-    "id": "2011-03-30-nuevo-colaborador-%c2%a1bienvenido-jal",
-    "published_at": "2011-03-30 08:45:57 +0200",
-    "title": "Nuevo colaborador. ¡Bienvenido Jal!",
-    "author_name": "admin",
-    "metadata_song": null,
-    "metadata_artist": null,
-    "metadata_album": null,
-    "metadata_year": null
   },
   {
     "id": "2011-03-30-its-not-war-just-the-end-of-love-de-manic-street-preachers",
@@ -7620,16 +7440,6 @@
     "metadata_year": null
   },
   {
-    "id": "2011-09-01-bienvenidos-a-dsong-2-0",
-    "published_at": "2011-09-01 08:30:50 +0200",
-    "title": "Bienvenidos a dSong 2.0",
-    "author_name": "admin",
-    "metadata_song": null,
-    "metadata_artist": null,
-    "metadata_album": null,
-    "metadata_year": null
-  },
-  {
     "id": "2011-09-01-tripping-de-robbie-williams",
     "published_at": "2011-09-01 09:00:31 +0200",
     "title": "Tripping, de Robbie Williams",
@@ -7818,16 +7628,6 @@
     "metadata_artist": "Chiara Mastroianni",
     "metadata_album": "Pesépolis",
     "metadata_year": "2007"
-  },
-  {
-    "id": "2011-09-19-votanos-en-los-premios-bitacoras-2011",
-    "published_at": "2011-09-19 12:00:38 +0200",
-    "title": "Vótanos en los premios Bitacoras 2011",
-    "author_name": "admin",
-    "metadata_song": null,
-    "metadata_artist": null,
-    "metadata_album": null,
-    "metadata_year": null
   },
   {
     "id": "2011-09-20-thousand-years-de-sting",
@@ -8118,16 +7918,6 @@
     "metadata_artist": "Mutemath",
     "metadata_album": "Odd Soul",
     "metadata_year": "2011"
-  },
-  {
-    "id": "2011-10-18-bienvenida-a-dsong-silvia",
-    "published_at": "2011-10-18 01:28:14 +0200",
-    "title": "Bienvenida a dSong, Silvia",
-    "author_name": "admin",
-    "metadata_song": null,
-    "metadata_artist": null,
-    "metadata_album": null,
-    "metadata_year": null
   },
   {
     "id": "2011-10-18-para-el-fin-del-mundo-o-el-ano-nuevo-de-lhasa-de-sela",
@@ -9680,16 +9470,6 @@
     "metadata_year": "2010"
   },
   {
-    "id": "2012-03-20-nueva-colaboradora-de-dsong-%c2%a1bienvenida-ascen",
-    "published_at": "2012-03-20 11:00:27 +0100",
-    "title": "Nueva colaboradora de dSong: ¡Bienvenida Ascen!",
-    "author_name": "admin",
-    "metadata_song": null,
-    "metadata_artist": null,
-    "metadata_album": null,
-    "metadata_year": null
-  },
-  {
     "id": "2012-03-21-gloria-de-patti-smith",
     "published_at": "2012-03-21 09:00:44 +0100",
     "title": "Gloria, de Patti Smith",
@@ -9948,16 +9728,6 @@
     "metadata_artist": "Hans Zimmer",
     "metadata_album": "El príncipe de Egipto",
     "metadata_year": "1998"
-  },
-  {
-    "id": "2012-04-15-nuevo-colaborador-de-dsong-bienvenido-miguel",
-    "published_at": "2012-04-15 09:00:27 +0200",
-    "title": "Nuevo colaborador de dSong: ¡Bienvenido Miguel!",
-    "author_name": "admin",
-    "metadata_song": null,
-    "metadata_artist": null,
-    "metadata_album": null,
-    "metadata_year": null
   },
   {
     "id": "2012-04-16-dentro-de-ti-de-guerrero-garcia",
@@ -10290,36 +10060,6 @@
     "metadata_year": "2005"
   },
   {
-    "id": "2012-05-18-dsong-desde-hoy-mas-vistoso-navegable-y-funcional",
-    "published_at": "2012-05-18 10:30:26 +0200",
-    "title": "dSong, desde hoy más vistoso, navegable y funcional",
-    "author_name": "admin",
-    "metadata_song": null,
-    "metadata_artist": null,
-    "metadata_album": null,
-    "metadata_year": null
-  },
-  {
-    "id": "2012-05-18-en-nuestro-cumpleanos-regalamos-nosotros",
-    "published_at": "2012-05-18 12:00:13 +0200",
-    "title": "En nuestro cumpleaños regalamos nosotros",
-    "author_name": "admin",
-    "metadata_song": null,
-    "metadata_artist": null,
-    "metadata_album": null,
-    "metadata_year": null
-  },
-  {
-    "id": "2012-05-18-dsong-cumple-anos",
-    "published_at": "2012-05-18 13:00:00 +0200",
-    "title": "¡dSong cumple años!",
-    "author_name": "admin",
-    "metadata_song": null,
-    "metadata_artist": null,
-    "metadata_album": null,
-    "metadata_year": null
-  },
-  {
     "id": "2012-05-19-starla-de-smashing-pumpkins",
     "published_at": "2012-05-19 08:00:00 +0200",
     "title": "Starla, de Smashing Pumpkins",
@@ -10420,16 +10160,6 @@
     "metadata_year": "1990"
   },
   {
-    "id": "2012-05-28-finalizado-el-plazo-para-participar-en-el-concurso",
-    "published_at": "2012-05-28 00:30:21 +0200",
-    "title": "Finalizado el plazo para participar en el concurso",
-    "author_name": "admin",
-    "metadata_song": null,
-    "metadata_artist": null,
-    "metadata_album": null,
-    "metadata_year": null
-  },
-  {
     "id": "2012-05-28-vem-kan-man-lita-pa-de-lena-philipsson",
     "published_at": "2012-05-28 08:00:28 +0200",
     "title": "Vem kan man lita på, de Lena Philipsson",
@@ -10438,16 +10168,6 @@
     "metadata_artist": "lena philipsson",
     "metadata_album": "Tolkningarna",
     "metadata_year": "2012"
-  },
-  {
-    "id": "2012-05-28-ganadores-del-concurso-de-las-camisetas-de-dsong",
-    "published_at": "2012-05-28 14:11:18 +0200",
-    "title": "Ganadores del concurso de las camisetas de dSong",
-    "author_name": "admin",
-    "metadata_song": null,
-    "metadata_artist": null,
-    "metadata_album": null,
-    "metadata_year": null
   },
   {
     "id": "2012-05-29-somebody-that-i-used-to-know-de-walk-off-the-earth",
@@ -11090,16 +10810,6 @@
     "metadata_year": null
   },
   {
-    "id": "2012-07-31-dsong-se-va-de-vacaciones-pero-volvemos-en-septiembre",
-    "published_at": "2012-07-31 16:00:00 +0200",
-    "title": "dSong se va de vacaciones (pero volvemos en Septiembre)",
-    "author_name": "admin",
-    "metadata_song": null,
-    "metadata_artist": null,
-    "metadata_album": null,
-    "metadata_year": null
-  },
-  {
     "id": "2012-09-03-wake-up-boo-de-the-boo-radleys",
     "published_at": "2012-09-03 09:00:28 +0200",
     "title": "Wake up boo, de The Boo Radleys",
@@ -11148,16 +10858,6 @@
     "metadata_artist": "Elbow",
     "metadata_album": "The seldom seen kid",
     "metadata_year": "2008"
-  },
-  {
-    "id": "2012-09-07-nuevo-colaborador-welcome-monty",
-    "published_at": "2012-09-07 11:00:53 +0200",
-    "title": "Nuevo colaborador: Welcome Monty!",
-    "author_name": "admin",
-    "metadata_song": null,
-    "metadata_artist": null,
-    "metadata_album": null,
-    "metadata_year": null
   },
   {
     "id": "2012-09-08-la-vuelta-de-luis-salinas",
@@ -11478,16 +11178,6 @@
     "metadata_artist": "Milla Jovovich",
     "metadata_album": "The Divine Comedy",
     "metadata_year": "1994"
-  },
-  {
-    "id": "2012-10-08-estrenamos-la-segunda-temporada-de-dsong-en-uniradio-jaen",
-    "published_at": "2012-10-08 10:00:26 +0200",
-    "title": "Estrenamos la segunda temporada de dSong en UniRadio Jaén",
-    "author_name": "admin",
-    "metadata_song": null,
-    "metadata_artist": null,
-    "metadata_album": null,
-    "metadata_year": null
   },
   {
     "id": "2012-10-09-into-the-wild-de-l-p",
@@ -12260,16 +11950,6 @@
     "metadata_year": "2005"
   },
   {
-    "id": "2012-12-16-bienvenido-omegak",
-    "published_at": "2012-12-16 11:00:10 +0100",
-    "title": "Bienvenido OmeGak!",
-    "author_name": "admin",
-    "metadata_song": null,
-    "metadata_artist": null,
-    "metadata_album": null,
-    "metadata_year": null
-  },
-  {
     "id": "2012-12-17-annabel-lee-de-maga",
     "published_at": "2012-12-17 08:00:06 +0100",
     "title": "Annabel Lee, de Maga",
@@ -12938,16 +12618,6 @@
     "metadata_artist": "Grizzly Bear",
     "metadata_album": "Veckatimest",
     "metadata_year": "2009"
-  },
-  {
-    "id": "2013-02-18-200-podcasts-de-dsong-sumando-y-ahora-tambien-en-itunes",
-    "published_at": "2013-02-18 12:30:09 +0100",
-    "title": "200 podcasts de dSong, y ahora también en iTunes",
-    "author_name": "admin",
-    "metadata_song": null,
-    "metadata_artist": null,
-    "metadata_album": null,
-    "metadata_year": null
   },
   {
     "id": "2013-02-19-sweet-sour-de-band-of-skulls",
@@ -13856,26 +13526,6 @@
     "author_name": "admin",
     "metadata_song": null,
     "metadata_artist": "Ravid Goldschmidt",
-    "metadata_album": null,
-    "metadata_year": null
-  },
-  {
-    "id": "2013-05-18-4-velas-para-dsong-resumen-de-nuestro-cuarto-ano",
-    "published_at": "2013-05-18 11:00:00 +0200",
-    "title": "4 velas para dSong: resumen de nuestro cuarto año",
-    "author_name": "admin",
-    "metadata_song": null,
-    "metadata_artist": null,
-    "metadata_album": null,
-    "metadata_year": null
-  },
-  {
-    "id": "2013-05-19-vota-tu-recomendacion-favorita-del-ano",
-    "published_at": "2013-05-19 08:00:00 +0200",
-    "title": "Vota tu recomendación favorita del año",
-    "author_name": "admin",
-    "metadata_song": null,
-    "metadata_artist": null,
     "metadata_album": null,
     "metadata_year": null
   },
@@ -15738,16 +15388,6 @@
     "metadata_artist": "Antoine",
     "metadata_album": "Les Élucubrations d'Antoine",
     "metadata_year": "1966"
-  },
-  {
-    "id": "2013-12-21-crece-nuevamente-el-equipo-de-dsong-bienvenido-jose-alberto",
-    "published_at": "2013-12-21 08:00:58 +0100",
-    "title": "Crece nuevamente el equipo de dSong: Bienvenido José Alberto",
-    "author_name": "admin",
-    "metadata_song": null,
-    "metadata_artist": null,
-    "metadata_album": null,
-    "metadata_year": null
   },
   {
     "id": "2013-12-22-bso-frozen-el-reino-del-hielo",
