@@ -2,12 +2,16 @@
 
 }
 
+.archive-table-wrapper {
+  overflow-x: auto;
+}
+
 .archive-table {
   border: 2px solid $black;
   font-size: .8rem;
   margin-bottom: 1rem;
   table-layout: fixed;
-  width: 100%;
+  width: 80rem;
 
   thead {
     font-weight: bold;
@@ -17,9 +21,7 @@
     background: $black;
     color: $white;
     padding: .5rem;
-    position: sticky;
     text-align: left;
-    top: -2px;
   }
 
   tr {
