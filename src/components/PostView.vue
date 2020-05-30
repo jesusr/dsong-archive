@@ -52,7 +52,7 @@
     <div v-if="fullView && value.hasComments" class="post-view__comments">
       <h3 class="post-view__subtitle">Comentarios</h3>
       <ul>
-        <li v-for="comment in value.comments" :key="comment.authorName" class="post-view__comment">
+        <li v-for="comment in value.comments" :key="comment.publishedAt" class="post-view__comment">
           <div class="post-view__comment-content">{{ comment.content }}</div>
 
           <div class="post-view__comment-meta">
