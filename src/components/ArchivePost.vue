@@ -32,6 +32,7 @@ export default {
       await api.fetchPost(this.postId)
         .then(response => {
           this.post = new Post(response.data)
+          this.$emit("set-component-title", this.post.title)
         })
         .catch((error) => {
           this.error = error

@@ -32,7 +32,7 @@
       <tbody v-if="!isLoading">
         <tr v-for="post in archive" :key="post.id">
           <td class="archive-table__cell--published-at">{{ formattedDate(post.published_at) }}</td>
-          <td class="archive-table__cell--title"><router-link :to="`/archivo/${post.id}`" target="_blank">{{ post.title }} »</router-link></td>
+          <td class="archive-table__cell--title"><router-link :to="`/archivo/${post.id}`">{{ post.title }} »</router-link></td>
           <td class="archive-table__cell--song">{{ post.metadata_song }}</td>
           <td class="archive-table__cell--artist">
             <router-link :to="{ query: filter({ artist: post.metadata_artist }) }">{{ post.metadata_artist }}</router-link>
