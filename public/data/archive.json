@@ -64,7 +64,7 @@
     "published_at": "2009-05-24 09:00:01 +0200",
     "title": "Especial Álbum: Devil & Dust, de Bruce Springsteen",
     "author_name": "jesusr",
-    "metadata_song": null,
+    "metadata_song": "",
     "metadata_artist": "Bruce Springsteen",
     "metadata_album": "Devil &amp; Dust",
     "metadata_year": "2005"
@@ -134,7 +134,7 @@
     "published_at": "2009-05-31 09:00:04 +0200",
     "title": "Especial Álbum: LeftRightLeftRightLeft, de Coldplay",
     "author_name": "skuark",
-    "metadata_song": null,
+    "metadata_song": "",
     "metadata_artist": "Coldplay",
     "metadata_album": "LeftRightLeftRightLeft",
     "metadata_year": "2009"
@@ -204,7 +204,7 @@
     "published_at": "2009-06-07 09:00:28 +0200",
     "title": "Especial Álbum: Estrella de Mar, de Amaral",
     "author_name": "Jose",
-    "metadata_song": null,
+    "metadata_song": "",
     "metadata_artist": "Amaral",
     "metadata_album": "Estrella de Mar",
     "metadata_year": "2002"
@@ -216,8 +216,8 @@
     "author_name": "Jose",
     "metadata_song": "Lone Lines",
     "metadata_artist": "The Red Crayon Aristocrat Club",
-    "metadata_album": null,
-    "metadata_year": null
+    "metadata_album": "",
+    "metadata_year": ""
   },
   {
     "id": "2009-06-09-especial-lagarto-festival-2009-bei-ping-mafia",
@@ -236,8 +236,8 @@
     "author_name": "jesusr",
     "metadata_song": "En este cementerio",
     "metadata_artist": "Guadalupe Plata",
-    "metadata_album": null,
-    "metadata_year": null
+    "metadata_album": "",
+    "metadata_year": ""
   },
   {
     "id": "2009-06-11-especial-lagarto-festival-2009-vetusta-morla",
@@ -274,10 +274,10 @@
     "published_at": "2009-06-14 18:56:43 +0200",
     "title": "Especial Lagarto Festival 2009: Crónica",
     "author_name": "Poncho",
-    "metadata_song": null,
+    "metadata_song": "",
     "metadata_artist": "Lagarto Festival '09",
-    "metadata_album": null,
-    "metadata_year": null
+    "metadata_album": "",
+    "metadata_year": ""
   },
   {
     "id": "2009-06-15-that-dont-impress-me-much-de-shania-twain",
@@ -344,7 +344,7 @@
     "published_at": "2009-06-21 09:00:41 +0200",
     "title": "Especial Álbum: Urban Hymns, de The Verve",
     "author_name": "jesusr",
-    "metadata_song": null,
+    "metadata_song": "",
     "metadata_artist": "The Verve",
     "metadata_album": "Urban Hymns",
     "metadata_year": "1997"
@@ -424,7 +424,7 @@
     "published_at": "2009-06-29 09:00:25 +0200",
     "title": "Minimo, de Alis",
     "author_name": "jesusr",
-    "metadata_song": null,
+    "metadata_song": "",
     "metadata_artist": "Alis",
     "metadata_album": "Mínimo (Segundo Acto)",
     "metadata_year": "2008"
@@ -554,7 +554,7 @@
     "published_at": "2009-07-12 09:00:38 +0200",
     "title": "Especial Álbum: Grace, de Jeff Buckley",
     "author_name": "jesusr",
-    "metadata_song": null,
+    "metadata_song": "",
     "metadata_artist": "Jeff Buckley",
     "metadata_album": "Grace",
     "metadata_year": "1994"
@@ -567,7 +567,7 @@
     "metadata_song": "El lado oscuro de las cosas",
     "metadata_artist": "091",
     "metadata_album": "El baile de la desesperación",
-    "metadata_year": null
+    "metadata_year": ""
   },
   {
     "id": "2009-07-14-mascara-de-seduccion-de-stravaganzza",
@@ -614,20 +614,20 @@
     "published_at": "2009-07-18 09:00:23 +0200",
     "title": "Especial Antonio Vega I",
     "author_name": "skuark",
-    "metadata_song": null,
+    "metadata_song": "",
     "metadata_artist": "Antonio Vega",
-    "metadata_album": null,
-    "metadata_year": null
+    "metadata_album": "",
+    "metadata_year": ""
   },
   {
     "id": "2009-07-19-especial-antonio-vega-ii",
     "published_at": "2009-07-19 09:00:24 +0200",
     "title": "Especial Antonio Vega II",
     "author_name": "jesusr",
-    "metadata_song": null,
+    "metadata_song": "",
     "metadata_artist": "Antonio Vega",
-    "metadata_album": null,
-    "metadata_year": null
+    "metadata_album": "",
+    "metadata_year": ""
   },
   {
     "id": "2009-07-20-soldado-229-de-antonio-orozco-e-ivan-ferreiro",
@@ -744,10 +744,10 @@
     "published_at": "2009-07-31 09:00:14 +0200",
     "title": "Especial Canción del Verano 2009",
     "author_name": "jesusr",
-    "metadata_song": null,
-    "metadata_artist": null,
-    "metadata_album": null,
-    "metadata_year": null
+    "metadata_song": "",
+    "metadata_artist": "",
+    "metadata_album": "",
+    "metadata_year": ""
   },
   {
     "id": "2009-09-01-chicago-de-sufjan-stevens",
@@ -847,7 +847,7 @@
     "metadata_song": "The don't believe",
     "metadata_artist": "Russian Red",
     "metadata_album": "I love your glasses",
-    "metadata_year": null
+    "metadata_year": ""
   },
   {
     "id": "2009-09-11-wherever-you-will-go-de-the-calling",
@@ -954,7 +954,7 @@
     "published_at": "2009-09-21 09:00:19 +0200",
     "title": "Memories, de Within Temptation",
     "author_name": "Jose",
-    "metadata_song": null,
+    "metadata_song": "",
     "metadata_artist": "Within Temptation",
     "metadata_album": "The Silent Force",
     "metadata_year": "2004"
@@ -1014,7 +1014,7 @@
     "published_at": "2009-09-27 12:15:19 +0200",
     "title": "Especial Album: The resistance, de Muse",
     "author_name": "jesusr",
-    "metadata_song": null,
+    "metadata_song": "",
     "metadata_artist": "Muse",
     "metadata_album": "The resistance",
     "metadata_year": "2009"
@@ -1347,7 +1347,7 @@
     "metadata_song": "A dream of her",
     "metadata_artist": "Micah P Hinson",
     "metadata_album": "A dream of her",
-    "metadata_year": null
+    "metadata_year": ""
   },
   {
     "id": "2009-10-31-a-natural-disaster-de-anathema",
@@ -1365,7 +1365,7 @@
     "title": "Especial Álbum: The Queen is dead, de The Smiths",
     "author_name": "Jose Dueñas",
     "metadata_song": "Bigmouth Strikes Again",
-    "metadata_artist": null,
+    "metadata_artist": "",
     "metadata_album": "The Queen is Dead",
     "metadata_year": "1986"
   },
@@ -1434,7 +1434,7 @@
     "published_at": "2009-11-08 09:00:05 +0100",
     "title": "Especial Album: Continuum, de John Mayer",
     "author_name": "jesusr",
-    "metadata_song": null,
+    "metadata_song": "",
     "metadata_artist": "John Mayer",
     "metadata_album": "Continuum",
     "metadata_year": "2006"
@@ -1574,7 +1574,7 @@
     "published_at": "2009-11-22 09:00:48 +0100",
     "title": "Especial Album: Friendly Fire, de Sean Lennon",
     "author_name": "Poncho",
-    "metadata_song": null,
+    "metadata_song": "",
     "metadata_artist": "Sean Lennon",
     "metadata_album": "Friendly Fire",
     "metadata_year": "2006"
@@ -1714,7 +1714,7 @@
     "published_at": "2009-12-06 09:00:38 +0100",
     "title": "Especial Álbum: Daiquiri Blues, de Quique González",
     "author_name": "jesusr",
-    "metadata_song": null,
+    "metadata_song": "",
     "metadata_artist": "Quique González",
     "metadata_album": "Daikiri Blues",
     "metadata_year": "2009"
@@ -1774,10 +1774,10 @@
     "published_at": "2009-12-12 09:00:37 +0100",
     "title": "Especial Certamen Canción de Autor IAJ 2009",
     "author_name": "jesusr",
-    "metadata_song": null,
+    "metadata_song": "",
     "metadata_artist": "Fran Fernandez",
-    "metadata_album": null,
-    "metadata_year": null
+    "metadata_album": "",
+    "metadata_year": ""
   },
   {
     "id": "2009-12-13-especial-album-life-after-death-de-notorious-b-i-g",
@@ -1804,7 +1804,7 @@
     "published_at": "2009-12-15 09:00:48 +0100",
     "title": "Breaking me Down, de Hydrogyn",
     "author_name": "Jose",
-    "metadata_song": null,
+    "metadata_song": "",
     "metadata_artist": "Hydrogyn",
     "metadata_album": "Bombshell",
     "metadata_year": "2006"
@@ -1844,10 +1844,10 @@
     "published_at": "2009-12-19 09:00:43 +0100",
     "title": "Especial Navidad 2009",
     "author_name": "dSong",
-    "metadata_song": null,
-    "metadata_artist": null,
-    "metadata_album": null,
-    "metadata_year": null
+    "metadata_song": "",
+    "metadata_artist": "",
+    "metadata_album": "",
+    "metadata_year": ""
   },
   {
     "id": "2009-12-20-especial-album-the-songs-of-distant-earth-de-mike-oldfield",
@@ -1934,10 +1934,10 @@
     "published_at": "2009-12-28 09:00:13 +0100",
     "title": "Volveré a la montaña, de Bender Bending Rodríguez",
     "author_name": "skuark",
-    "metadata_song": null,
+    "metadata_song": "",
     "metadata_artist": "Bender Bending Rodríguez",
-    "metadata_album": null,
-    "metadata_year": null
+    "metadata_album": "",
+    "metadata_year": ""
   },
   {
     "id": "2009-12-29-best-of-you-de-foo-fighters",
@@ -1974,10 +1974,10 @@
     "published_at": "2010-01-01 09:00:25 +0100",
     "title": "Feliz año nuevo",
     "author_name": "Poncho",
-    "metadata_song": null,
-    "metadata_artist": null,
-    "metadata_album": null,
-    "metadata_year": null
+    "metadata_song": "",
+    "metadata_artist": "",
+    "metadata_album": "",
+    "metadata_year": ""
   },
   {
     "id": "2010-01-02-marcha-radetzky-de-johan-strauss",
@@ -1994,7 +1994,7 @@
     "published_at": "2010-01-03 09:00:36 +0100",
     "title": "Especial Album: Ten, de Pearl Jam",
     "author_name": "jesusr",
-    "metadata_song": null,
+    "metadata_song": "",
     "metadata_artist": "Pearl Jam",
     "metadata_album": "Ten",
     "metadata_year": "1991"
@@ -2206,8 +2206,8 @@
     "author_name": "dSong",
     "metadata_song": "Alive",
     "metadata_artist": "No Life After Love",
-    "metadata_album": null,
-    "metadata_year": null
+    "metadata_album": "",
+    "metadata_year": ""
   },
   {
     "id": "2010-01-25-weather-with-you-de-crowded-house",
@@ -2267,7 +2267,7 @@
     "metadata_song": "With a little help of my friends",
     "metadata_artist": "Joe Cocker",
     "metadata_album": "The Ultimate Collection",
-    "metadata_year": null
+    "metadata_year": ""
   },
   {
     "id": "2010-01-31-especial-album-arena-en-los-bolsillos-de-manolo-garcia",
@@ -2454,7 +2454,7 @@
     "published_at": "2010-02-18 09:00:19 +0100",
     "title": "Evening/Morning, de Bombay Bicycle Club",
     "author_name": "jesusr",
-    "metadata_song": null,
+    "metadata_song": "",
     "metadata_artist": "Bombay Bicycle Club",
     "metadata_album": "I Had the Blues But I Shook Them Loose",
     "metadata_year": "2009"
@@ -2554,7 +2554,7 @@
     "published_at": "2010-02-28 09:00:09 +0100",
     "title": "Especial Album: I am a bird now, de Antony & the Johnsons",
     "author_name": "jesusr",
-    "metadata_song": null,
+    "metadata_song": "",
     "metadata_artist": "Antony &amp; the Johnsons",
     "metadata_album": "I am a bird now",
     "metadata_year": "2005"
@@ -2666,8 +2666,8 @@
     "author_name": "Poncho",
     "metadata_song": "Monólogo interior bruto",
     "metadata_artist": "Healthcontrol",
-    "metadata_album": null,
-    "metadata_year": null
+    "metadata_album": "",
+    "metadata_year": ""
   },
   {
     "id": "2010-03-12-the-magic-of-the-wizards-dream-de-rhapsody-of-fire",
@@ -2764,7 +2764,7 @@
     "published_at": "2010-03-21 09:00:33 +0100",
     "title": "Especial BSO: The Bourne Identity",
     "author_name": "jesusr",
-    "metadata_song": null,
+    "metadata_song": "",
     "metadata_artist": "The Bourne Identity",
     "metadata_album": "The Bourne Identity",
     "metadata_year": "2002"
@@ -2827,7 +2827,7 @@
     "metadata_song": "Himno de Nuestro Padre Jesús",
     "metadata_artist": "Desconocido",
     "metadata_album": "Desconocido",
-    "metadata_year": null
+    "metadata_year": ""
   },
   {
     "id": "2010-03-28-especial-album-euphoria-morning-de-chris-cornell",
@@ -2904,7 +2904,7 @@
     "published_at": "2010-04-04 09:00:57 +0200",
     "title": "Especial Album: Battle studies, de John Mayer",
     "author_name": "jesusr",
-    "metadata_song": null,
+    "metadata_song": "",
     "metadata_artist": "John Mayer",
     "metadata_album": "Battle Studies",
     "metadata_year": "2009"
@@ -3044,7 +3044,7 @@
     "published_at": "2010-04-18 09:00:59 +0200",
     "title": "Especial BSO: Gladiator",
     "author_name": "Jose",
-    "metadata_song": null,
+    "metadata_song": "",
     "metadata_artist": "Gladiator",
     "metadata_album": "Gladiator",
     "metadata_year": "2000"
@@ -3114,7 +3114,7 @@
     "published_at": "2010-04-25 09:00:02 +0200",
     "title": "Especial Álbum: Daughtry, de Chris Daughtry",
     "author_name": "Jacky",
-    "metadata_song": null,
+    "metadata_song": "",
     "metadata_artist": "Daughtry",
     "metadata_album": "Daughtry",
     "metadata_year": "2006"
@@ -3177,7 +3177,7 @@
     "metadata_song": "You do something to me",
     "metadata_artist": "Paul Weller",
     "metadata_album": "Stanley Road",
-    "metadata_year": null
+    "metadata_year": ""
   },
   {
     "id": "2010-05-02-back-to-black-de-amy-winehouse",
@@ -3196,8 +3196,8 @@
     "author_name": "skuark",
     "metadata_song": "Air On A G String",
     "metadata_artist": "Johann Sebastian Bach",
-    "metadata_album": null,
-    "metadata_year": null
+    "metadata_album": "",
+    "metadata_year": ""
   },
   {
     "id": "2010-05-04-do-you-want-the-truth-or-something-beautiful-de-paloma-faith",
@@ -3277,7 +3277,7 @@
     "metadata_song": "Rules Don't Stop",
     "metadata_artist": "We Are Scientists",
     "metadata_album": "Barbara",
-    "metadata_year": null
+    "metadata_year": ""
   },
   {
     "id": "2010-05-12-esperando-nada-de-antonio-vega",
@@ -3324,8 +3324,8 @@
     "published_at": "2010-05-16 09:00:49 +0200",
     "title": "Especial BSO: Kill Bill Vol.1",
     "author_name": "skuark",
-    "metadata_song": null,
-    "metadata_artist": null,
+    "metadata_song": "",
+    "metadata_artist": "",
     "metadata_album": "Kill Bill Vol.1",
     "metadata_year": "2003"
   },
@@ -3344,10 +3344,10 @@
     "published_at": "2010-05-18 09:00:27 +0200",
     "title": "Especial Primer Aniversario de dSong",
     "author_name": "dSong",
-    "metadata_song": null,
+    "metadata_song": "",
     "metadata_artist": "Wintersleep",
-    "metadata_album": null,
-    "metadata_year": null
+    "metadata_album": "",
+    "metadata_year": ""
   },
   {
     "id": "2010-05-19-propane-nightmares-de-pendulum",
@@ -3394,10 +3394,10 @@
     "published_at": "2010-05-23 09:00:14 +0200",
     "title": "Especial: Las 10 mejores canciones de Lost (Perdidos)",
     "author_name": "skuark",
-    "metadata_song": null,
-    "metadata_artist": null,
-    "metadata_album": null,
-    "metadata_year": null
+    "metadata_song": "",
+    "metadata_artist": "",
+    "metadata_album": "",
+    "metadata_year": ""
   },
   {
     "id": "2010-05-24-sonar-contigo-de-zenet",
@@ -3514,7 +3514,7 @@
     "published_at": "2010-06-04 09:00:26 +0200",
     "title": "C'etait ici, de Yann Tiersen",
     "author_name": "jesusr",
-    "metadata_song": null,
+    "metadata_song": "",
     "metadata_artist": "Yann Tiersen",
     "metadata_album": "C'etait ici",
     "metadata_year": "2002"
@@ -3604,10 +3604,10 @@
     "published_at": "2010-06-13 18:08:55 +0200",
     "title": "Especial Lagarto Festival 2010: Crónica",
     "author_name": "dSong",
-    "metadata_song": null,
-    "metadata_artist": null,
-    "metadata_album": null,
-    "metadata_year": null
+    "metadata_song": "",
+    "metadata_artist": "",
+    "metadata_album": "",
+    "metadata_year": ""
   },
   {
     "id": "2010-06-14-fruhling-de-hund-am-strand",
@@ -3647,7 +3647,7 @@
     "metadata_song": "Breathe (2 AM)",
     "metadata_artist": "Anna Nalick",
     "metadata_album": "Wreck of the Day",
-    "metadata_year": null
+    "metadata_year": ""
   },
   {
     "id": "2010-06-18-estoy-hecho-de-pedacitos-de-ti-de-antonio-orozco-y-arcangel",
@@ -3676,8 +3676,8 @@
     "author_name": "luizk",
     "metadata_song": "Cierre de concierto",
     "metadata_artist": "Muse",
-    "metadata_album": null,
-    "metadata_year": null
+    "metadata_album": "",
+    "metadata_year": ""
   },
   {
     "id": "2010-06-21-la-danza-del-fuego-de-mago-de-oz",
@@ -3744,7 +3744,7 @@
     "published_at": "2010-06-27 09:00:04 +0200",
     "title": "Especial Álbum + Interrogatorio: Kico Gomez",
     "author_name": "jesusr",
-    "metadata_song": null,
+    "metadata_song": "",
     "metadata_artist": "Kico Gómez",
     "metadata_album": "sé feliz",
     "metadata_year": "2010"
@@ -3896,8 +3896,8 @@
     "author_name": "luizk",
     "metadata_song": "Que viva España",
     "metadata_artist": "Manolo Escobar",
-    "metadata_album": null,
-    "metadata_year": null
+    "metadata_album": "",
+    "metadata_year": ""
   },
   {
     "id": "2010-07-13-santa-maradona-de-mano-negra",
@@ -3954,7 +3954,7 @@
     "published_at": "2010-07-18 09:00:38 +0200",
     "title": "Especial Álbum: Beneath these Fireworks, de Matt Nathanson",
     "author_name": "jesusr",
-    "metadata_song": null,
+    "metadata_song": "",
     "metadata_artist": "Matt Nathanson",
     "metadata_album": "Beneath These Fireworks",
     "metadata_year": "2003"
@@ -4084,10 +4084,10 @@
     "published_at": "2010-07-31 09:00:08 +0200",
     "title": "Especial Canción del Verano 2010",
     "author_name": "skuark",
-    "metadata_song": null,
-    "metadata_artist": null,
-    "metadata_album": null,
-    "metadata_year": null
+    "metadata_song": "",
+    "metadata_artist": "",
+    "metadata_album": "",
+    "metadata_year": ""
   },
   {
     "id": "2010-09-01-smells-like-teen-spirit-de-nirvana",
@@ -4606,7 +4606,7 @@
     "author_name": "jesusr",
     "metadata_song": "Crossroad Blues",
     "metadata_artist": "Robert Johnson",
-    "metadata_album": null,
+    "metadata_album": "",
     "metadata_year": "1937"
   },
   {
@@ -4624,10 +4624,10 @@
     "published_at": "2010-10-24 09:00:14 +0200",
     "title": "Especial Lista: 10 canciones de discoteca que bailaste en los 90′s",
     "author_name": "skuark",
-    "metadata_song": null,
-    "metadata_artist": null,
-    "metadata_album": null,
-    "metadata_year": null
+    "metadata_song": "",
+    "metadata_artist": "",
+    "metadata_album": "",
+    "metadata_year": ""
   },
   {
     "id": "2010-10-25-overload-de-sugarbabes",
@@ -4694,7 +4694,7 @@
     "published_at": "2010-10-31 09:00:21 +0100",
     "title": "Especial Album: Tiger Suit, de KT Tunstall",
     "author_name": "jesusr",
-    "metadata_song": null,
+    "metadata_song": "",
     "metadata_artist": "KT Tunstall",
     "metadata_album": "Tiger Suit",
     "metadata_year": "2010"
@@ -4867,7 +4867,7 @@
     "metadata_song": "Start wearing purple",
     "metadata_artist": "Gogol Bordello",
     "metadata_album": "Voi la intruder",
-    "metadata_year": null
+    "metadata_year": ""
   },
   {
     "id": "2010-11-18-we-used-to-be-friends-de-the-dandy-warhols",
@@ -4974,7 +4974,7 @@
     "published_at": "2010-11-28 09:00:16 +0100",
     "title": "Especial Álbum: Live in London, de Regina Spektor",
     "author_name": "jesusr",
-    "metadata_song": null,
+    "metadata_song": "",
     "metadata_artist": "Regina Spektor",
     "metadata_album": "Live in London",
     "metadata_year": "2010"
@@ -5184,10 +5184,10 @@
     "published_at": "2010-12-19 09:00:18 +0100",
     "title": "Especial Navidad 2010",
     "author_name": "dSong",
-    "metadata_song": null,
-    "metadata_artist": null,
-    "metadata_album": null,
-    "metadata_year": null
+    "metadata_song": "",
+    "metadata_artist": "",
+    "metadata_album": "",
+    "metadata_year": ""
   },
   {
     "id": "2010-12-20-aleluya-de-enrique-morente-y-lagartija-nick",
@@ -5254,7 +5254,7 @@
     "published_at": "2010-12-26 09:00:14 +0100",
     "title": "Especial Álbum: Alas, i cannot swim, de Laura Marling",
     "author_name": "jesusr",
-    "metadata_song": null,
+    "metadata_song": "",
     "metadata_artist": "Laura Marling",
     "metadata_album": "i cannot swim",
     "metadata_year": "2008"
@@ -5314,17 +5314,17 @@
     "published_at": "2011-01-01 09:00:12 +0100",
     "title": "10 temas que me acompañaron en la primera década del S.XXI",
     "author_name": "skuark",
-    "metadata_song": null,
-    "metadata_artist": null,
-    "metadata_album": null,
-    "metadata_year": null
+    "metadata_song": "",
+    "metadata_artist": "",
+    "metadata_album": "",
+    "metadata_year": ""
   },
   {
     "id": "2011-01-02-especial-album-la-herida-universal-de-julio-de-la-rosa",
     "published_at": "2011-01-02 09:00:47 +0100",
     "title": "Especial Álbum: La Herida Universal, de Julio de la Rosa",
     "author_name": "M",
-    "metadata_song": null,
+    "metadata_song": "",
     "metadata_artist": "Julio de la Rosa",
     "metadata_album": "La herida universal",
     "metadata_year": "2010"
@@ -5356,7 +5356,7 @@
     "author_name": "jesusr",
     "metadata_song": "Ain't no mountain high enough",
     "metadata_artist": "Marvin Gaye",
-    "metadata_album": null,
+    "metadata_album": "",
     "metadata_year": "1967"
   },
   {
@@ -5534,10 +5534,10 @@
     "published_at": "2011-01-23 09:00:03 +0100",
     "title": "Especial: Suede y Piratas, una extraña analogía",
     "author_name": "alwayscandy",
-    "metadata_song": null,
+    "metadata_song": "",
     "metadata_artist": "Suede",
-    "metadata_album": null,
-    "metadata_year": null
+    "metadata_album": "",
+    "metadata_year": ""
   },
   {
     "id": "2011-01-24-99-luftballons-de-nena",
@@ -5596,7 +5596,7 @@
     "author_name": "luizk",
     "metadata_song": "Surfin' bird",
     "metadata_artist": "The Trashmen",
-    "metadata_album": null,
+    "metadata_album": "",
     "metadata_year": "1963"
   },
   {
@@ -5604,7 +5604,7 @@
     "published_at": "2011-01-30 09:00:58 +0100",
     "title": "Especial Album: You've come a long way, baby, de Fatboy Slim",
     "author_name": "jesusr",
-    "metadata_song": null,
+    "metadata_song": "",
     "metadata_artist": "Fatboy Slim",
     "metadata_album": "You've Come a Long Way Baby",
     "metadata_year": "1998"
@@ -5674,7 +5674,7 @@
     "published_at": "2011-02-06 09:00:52 +0100",
     "title": "Especial Album: Pablo Alborán (... y despedida)",
     "author_name": "juanje.ra",
-    "metadata_song": null,
+    "metadata_song": "",
     "metadata_artist": "Pablo Alborán",
     "metadata_album": "Pablo Alborán",
     "metadata_year": "2011"
@@ -5744,7 +5744,7 @@
     "published_at": "2011-02-13 09:00:24 +0100",
     "title": "Especial Álbum: The Gift, de The Jam",
     "author_name": "jesusr",
-    "metadata_song": null,
+    "metadata_song": "",
     "metadata_artist": "The Jam",
     "metadata_album": "The Gift",
     "metadata_year": "1982"
@@ -5806,7 +5806,7 @@
     "author_name": "Beita",
     "metadata_song": "Parva que sou",
     "metadata_artist": "Deolinda",
-    "metadata_album": null,
+    "metadata_album": "",
     "metadata_year": "2011"
   },
   {
@@ -5954,7 +5954,7 @@
     "published_at": "2011-03-06 13:04:28 +0100",
     "title": "Especial Álbum: Break Up, de Pete Yorn y Scarlett Johanson",
     "author_name": "jesusr",
-    "metadata_song": null,
+    "metadata_song": "",
     "metadata_artist": "Pete Yorn y Scarlett Johanson",
     "metadata_album": "Break up",
     "metadata_year": "2009"
@@ -6024,10 +6024,10 @@
     "published_at": "2011-03-13 15:53:31 +0100",
     "title": "Especial One Hit Wonders",
     "author_name": "Johnbo",
-    "metadata_song": null,
-    "metadata_artist": null,
-    "metadata_album": null,
-    "metadata_year": null
+    "metadata_song": "",
+    "metadata_artist": "",
+    "metadata_album": "",
+    "metadata_year": ""
   },
   {
     "id": "2011-03-14-dust-in-the-wind-de-kansas",
@@ -6164,7 +6164,7 @@
     "published_at": "2011-03-27 09:00:28 +0200",
     "title": "Especial Album: Songs about Jane, de Maroon 5",
     "author_name": "jesusr",
-    "metadata_song": null,
+    "metadata_song": "",
     "metadata_artist": "Maroon 5",
     "metadata_album": "Songs about Jane",
     "metadata_year": "2002"
@@ -6286,7 +6286,7 @@
     "author_name": "luizk",
     "metadata_song": "Världens bästa AIK",
     "metadata_artist": "Skumdum",
-    "metadata_album": null,
+    "metadata_album": "",
     "metadata_year": "2004"
   },
   {
@@ -6304,7 +6304,7 @@
     "published_at": "2011-04-10 09:00:25 +0200",
     "title": "Especial Álbum: Dance the devil, de The Frames",
     "author_name": "jesusr",
-    "metadata_song": null,
+    "metadata_song": "",
     "metadata_artist": "The Frames",
     "metadata_album": "Dance the devil",
     "metadata_year": "1999"
@@ -6374,7 +6374,7 @@
     "published_at": "2011-04-17 18:14:27 +0200",
     "title": "Especial Álbum: Último concierto, de 091",
     "author_name": "Johnbo",
-    "metadata_song": null,
+    "metadata_song": "",
     "metadata_artist": "091",
     "metadata_album": "Último concierto",
     "metadata_year": "1996"
@@ -6406,7 +6406,7 @@
     "author_name": "Johnbo",
     "metadata_song": "Three lions",
     "metadata_artist": "The Lightning seeds",
-    "metadata_album": null,
+    "metadata_album": "",
     "metadata_year": "1996"
   },
   {
@@ -6514,7 +6514,7 @@
     "published_at": "2011-05-01 09:00:40 +0200",
     "title": "Especial Álbum: The broken string, de Bishop Allen",
     "author_name": "jesusr",
-    "metadata_song": null,
+    "metadata_song": "",
     "metadata_artist": "Bishop Allen",
     "metadata_album": "The broken string",
     "metadata_year": "2007"
@@ -6684,10 +6684,10 @@
     "published_at": "2011-05-18 09:00:36 +0200",
     "title": "Especial Segundo Aniversario de dSong",
     "author_name": "dSong",
-    "metadata_song": null,
+    "metadata_song": "",
     "metadata_artist": "The Beatles",
-    "metadata_album": null,
-    "metadata_year": null
+    "metadata_album": "",
+    "metadata_year": ""
   },
   {
     "id": "2011-05-19-more-than-a-feeling-de-boston",
@@ -6724,7 +6724,7 @@
     "published_at": "2011-05-22 09:00:27 +0200",
     "title": "Especial BSO: Pesadilla antes de Navidad",
     "author_name": "Jal",
-    "metadata_song": null,
+    "metadata_song": "",
     "metadata_artist": "Danny Elfman",
     "metadata_album": "Pesadilla antes de Navidad",
     "metadata_year": "1993"
@@ -6785,19 +6785,19 @@
     "title": "Champions League Theme",
     "author_name": "skuark",
     "metadata_song": "Champions League Theme",
-    "metadata_artist": null,
-    "metadata_album": null,
-    "metadata_year": null
+    "metadata_artist": "",
+    "metadata_album": "",
+    "metadata_year": ""
   },
   {
     "id": "2011-05-29-especial-mash-ups",
     "published_at": "2011-05-29 13:22:48 +0200",
     "title": "Especial mash-ups",
     "author_name": "Johnbo",
-    "metadata_song": null,
-    "metadata_artist": null,
-    "metadata_album": null,
-    "metadata_year": null
+    "metadata_song": "",
+    "metadata_artist": "",
+    "metadata_album": "",
+    "metadata_year": ""
   },
   {
     "id": "2011-05-30-a-sarcastic-hello-de-annie-b-sweet",
@@ -6934,7 +6934,7 @@
     "published_at": "2011-06-12 09:00:07 +0200",
     "title": "Especial BSO: [500] Days of Summer",
     "author_name": "jesusr",
-    "metadata_song": null,
+    "metadata_song": "",
     "metadata_artist": "The Smiths",
     "metadata_album": "[500] Days of Summer",
     "metadata_year": "2009"
@@ -6954,7 +6954,7 @@
     "published_at": "2011-06-14 09:00:36 +0200",
     "title": "Heroes, de David Bowie",
     "author_name": "lolosonico",
-    "metadata_song": null,
+    "metadata_song": "",
     "metadata_artist": "David Bowie",
     "metadata_album": "Heroes",
     "metadata_year": "1977"
@@ -7004,7 +7004,7 @@
     "published_at": "2011-06-19 09:00:13 +0200",
     "title": "Especial Álbum: \"La fabulosa historia de...\", de Zahara",
     "author_name": "Jal",
-    "metadata_song": null,
+    "metadata_song": "",
     "metadata_artist": "Zahara",
     "metadata_album": "La Fabulosa Historia De...",
     "metadata_year": "2009"
@@ -7074,10 +7074,10 @@
     "published_at": "2011-06-26 16:34:58 +0200",
     "title": "Especial versiones",
     "author_name": "Johnbo",
-    "metadata_song": null,
+    "metadata_song": "",
     "metadata_artist": "Britney Spears y Travis (entre otros)",
-    "metadata_album": null,
-    "metadata_year": null
+    "metadata_album": "",
+    "metadata_year": ""
   },
   {
     "id": "2011-06-27-melpomene-de-kashmir",
@@ -7144,7 +7144,7 @@
     "published_at": "2011-07-03 09:00:00 +0200",
     "title": "Especial Álbum: Mad Dogs and Englishman, de Joe Cocker",
     "author_name": "jesusr",
-    "metadata_song": null,
+    "metadata_song": "",
     "metadata_artist": "Joe Cocker",
     "metadata_album": "Mad Dogs and Englishmen",
     "metadata_year": "1970"
@@ -7214,7 +7214,7 @@
     "published_at": "2011-07-10 09:00:33 +0200",
     "title": "Especial BSO: Braid",
     "author_name": "Jal",
-    "metadata_song": null,
+    "metadata_song": "",
     "metadata_artist": "Shira Kammen y Cheryl Ann Fulton",
     "metadata_album": "Music from Braid",
     "metadata_year": "2009"
@@ -7226,7 +7226,7 @@
     "author_name": "luizk",
     "metadata_song": "Derive",
     "metadata_artist": "Avlägsen Popplar",
-    "metadata_album": null,
+    "metadata_album": "",
     "metadata_year": "2010"
   },
   {
@@ -7307,7 +7307,7 @@
     "metadata_song": "I know you want it",
     "metadata_artist": "Supersub",
     "metadata_album": "Mighty Baby",
-    "metadata_year": null
+    "metadata_year": ""
   },
   {
     "id": "2011-07-20-pobre-de-ti-de-tijuana-no",
@@ -7424,10 +7424,10 @@
     "published_at": "2011-07-31 09:00:10 +0200",
     "title": "Especial Verano 2011: 10 temas que suenan a verano",
     "author_name": "skuark",
-    "metadata_song": null,
-    "metadata_artist": null,
-    "metadata_album": null,
-    "metadata_year": null
+    "metadata_song": "",
+    "metadata_artist": "",
+    "metadata_album": "",
+    "metadata_year": ""
   },
   {
     "id": "2011-09-01-tripping-de-robbie-williams",
@@ -7534,9 +7534,9 @@
     "published_at": "2011-09-11 09:00:38 +0200",
     "title": "Lanzamientos del Indie Pop de Septiembre de 2011",
     "author_name": "alwayscandy",
-    "metadata_song": null,
+    "metadata_song": "",
     "metadata_artist": "The Drums",
-    "metadata_album": null,
+    "metadata_album": "",
     "metadata_year": "2011"
   },
   {
@@ -7674,10 +7674,10 @@
     "published_at": "2011-09-25 09:00:54 +0200",
     "title": "Especial One Hit Wonders (2ª parte)",
     "author_name": "Johnbo",
-    "metadata_song": null,
+    "metadata_song": "",
     "metadata_artist": "Soft Cell",
-    "metadata_album": null,
-    "metadata_year": null
+    "metadata_album": "",
+    "metadata_year": ""
   },
   {
     "id": "2011-09-26-in-bloom-de-nirvana",
@@ -7717,7 +7717,7 @@
     "metadata_song": "Eloise",
     "metadata_artist": "Tino Casal",
     "metadata_album": "Lágrimas de cocodrilo",
-    "metadata_year": null
+    "metadata_year": ""
   },
   {
     "id": "2011-09-30-diecinueve-de-maga",
@@ -7756,7 +7756,7 @@
     "author_name": "Poncho",
     "metadata_song": "You've Got The Love",
     "metadata_artist": "Florence + The Machine",
-    "metadata_album": null,
+    "metadata_album": "",
     "metadata_year": "2009"
   },
   {
@@ -7814,7 +7814,7 @@
     "published_at": "2011-10-09 09:00:53 +0200",
     "title": "The Score, de The Fugees",
     "author_name": "jesusr",
-    "metadata_song": null,
+    "metadata_song": "",
     "metadata_artist": "The Fugees",
     "metadata_album": "The Score",
     "metadata_year": "1996"
@@ -7954,7 +7954,7 @@
     "published_at": "2011-10-23 09:00:40 +0200",
     "title": "Junk of the heart, de The Kooks",
     "author_name": "jesusr",
-    "metadata_song": null,
+    "metadata_song": "",
     "metadata_artist": "The Kooks",
     "metadata_album": "Junk of the heart",
     "metadata_year": "2011"
@@ -7994,7 +7994,7 @@
     "published_at": "2011-10-27 09:00:00 +0200",
     "title": "Dream, de Priscilla Ahn",
     "author_name": "jesusr",
-    "metadata_song": null,
+    "metadata_song": "",
     "metadata_artist": "Priscilla Ahn",
     "metadata_album": "A good day",
     "metadata_year": "2008"
@@ -8024,7 +8024,7 @@
     "published_at": "2011-10-30 09:00:06 +0100",
     "title": "Achtung Baby, de U2",
     "author_name": "Beita",
-    "metadata_song": null,
+    "metadata_song": "",
     "metadata_artist": "U2",
     "metadata_album": "Achtung Baby",
     "metadata_year": "1991"
@@ -8046,8 +8046,8 @@
     "author_name": "jesusr",
     "metadata_song": "Play that funky music",
     "metadata_artist": "Wild Cherry",
-    "metadata_album": null,
-    "metadata_year": null
+    "metadata_album": "",
+    "metadata_year": ""
   },
   {
     "id": "2011-11-02-no-problem-de-perfume-genius",
@@ -8116,7 +8116,7 @@
     "author_name": "jesusr",
     "metadata_song": "Blue Train",
     "metadata_artist": "John Coltrane",
-    "metadata_album": null,
+    "metadata_album": "",
     "metadata_year": "1957"
   },
   {
@@ -8164,7 +8164,7 @@
     "published_at": "2011-11-13 08:00:00 +0100",
     "title": "Enter the Vaselines, de The Vaselines",
     "author_name": "Jal",
-    "metadata_song": null,
+    "metadata_song": "",
     "metadata_artist": "The Vaselines",
     "metadata_album": "Enter The Vaselines",
     "metadata_year": "1990"
@@ -8206,7 +8206,7 @@
     "author_name": "Beita",
     "metadata_song": "These boots are made for walking",
     "metadata_artist": "Nancy Sinatra",
-    "metadata_album": null,
+    "metadata_album": "",
     "metadata_year": "1966"
   },
   {
@@ -8234,7 +8234,7 @@
     "published_at": "2011-11-20 09:00:45 +0100",
     "title": "The Whole Love, de Wilco",
     "author_name": "jesusr",
-    "metadata_song": null,
+    "metadata_song": "",
     "metadata_artist": "Wilco",
     "metadata_album": "The Whole Love",
     "metadata_year": "2011"
@@ -8304,7 +8304,7 @@
     "published_at": "2011-11-27 08:00:00 +0100",
     "title": "Thick as a Brick, de Jethro Tull",
     "author_name": "skuark",
-    "metadata_song": null,
+    "metadata_song": "",
     "metadata_artist": "Jethro Tull",
     "metadata_album": "Thick as a Brick",
     "metadata_year": "1972"
@@ -8374,7 +8374,7 @@
     "published_at": "2011-12-04 08:00:00 +0100",
     "title": "Odelay, de Beck",
     "author_name": "luizk",
-    "metadata_song": null,
+    "metadata_song": "",
     "metadata_artist": "Beck",
     "metadata_album": "odelay",
     "metadata_year": "1996"
@@ -8444,7 +8444,7 @@
     "published_at": "2011-12-11 09:00:27 +0100",
     "title": "Jackson C. Frank, de Jackson C. Frank",
     "author_name": "Silvia",
-    "metadata_song": null,
+    "metadata_song": "",
     "metadata_artist": "Jackson C. Frank",
     "metadata_album": "Jackson C. Frank",
     "metadata_year": "1965"
@@ -8514,7 +8514,7 @@
     "published_at": "2011-12-18 08:00:00 +0100",
     "title": "Especial BSO: Nell",
     "author_name": "skuark",
-    "metadata_song": null,
+    "metadata_song": "",
     "metadata_artist": "Mark Isham",
     "metadata_album": "Nell (Original Motion Picture Sountrack)",
     "metadata_year": "1994"
@@ -8576,7 +8576,7 @@
     "author_name": "luizk",
     "metadata_song": "Just idag är jag stark",
     "metadata_artist": "kenta gustafsson",
-    "metadata_album": null,
+    "metadata_album": "",
     "metadata_year": "1980"
   },
   {
@@ -8584,7 +8584,7 @@
     "published_at": "2011-12-25 09:00:04 +0100",
     "title": "Suite de El cascanueces, de Piotr Ilich Tchaikovsky",
     "author_name": "Silvia",
-    "metadata_song": null,
+    "metadata_song": "",
     "metadata_artist": "Piotr Ilich Chaikovski",
     "metadata_album": "Suite de El cascanueces",
     "metadata_year": "1892"
@@ -8597,7 +8597,7 @@
     "metadata_song": "Wake Up",
     "metadata_artist": "Arcade Fire",
     "metadata_album": "Funeral",
-    "metadata_year": null
+    "metadata_year": ""
   },
   {
     "id": "2011-12-27-je-veux-de-zaz",
@@ -8724,7 +8724,7 @@
     "published_at": "2012-01-08 09:00:30 +0100",
     "title": "Lemon Parade, de Tonic",
     "author_name": "jesusr",
-    "metadata_song": null,
+    "metadata_song": "",
     "metadata_artist": "Tonic",
     "metadata_album": "Lemon Parade",
     "metadata_year": "1996"
@@ -8736,8 +8736,8 @@
     "author_name": "Johnbo",
     "metadata_song": "Al-Andalus",
     "metadata_artist": "Manolo Carrasco",
-    "metadata_album": null,
-    "metadata_year": null
+    "metadata_album": "",
+    "metadata_year": ""
   },
   {
     "id": "2012-01-10-white-as-diamonds-de-alela-diane",
@@ -8794,7 +8794,7 @@
     "published_at": "2012-01-15 08:00:22 +0100",
     "title": "Different Gear, Still Speeding, de Beady Eye",
     "author_name": "jesusr",
-    "metadata_song": null,
+    "metadata_song": "",
     "metadata_artist": "Beady Eye",
     "metadata_album": "Still Speeding",
     "metadata_year": "2010"
@@ -8864,7 +8864,7 @@
     "published_at": "2012-01-22 08:00:41 +0100",
     "title": "Gracias por elegirme, de Los Secretos",
     "author_name": "skuark",
-    "metadata_song": null,
+    "metadata_song": "",
     "metadata_artist": "Los secretos",
     "metadata_album": "Gracias por elegirme",
     "metadata_year": "2008"
@@ -8934,10 +8934,10 @@
     "published_at": "2012-01-29 08:00:00 +0100",
     "title": "Especial The Wire",
     "author_name": "Johnbo",
-    "metadata_song": null,
+    "metadata_song": "",
     "metadata_artist": "Steve Earle",
-    "metadata_album": null,
-    "metadata_year": null
+    "metadata_album": "",
+    "metadata_year": ""
   },
   {
     "id": "2012-01-30-the-man-who-cant-be-moved-de-the-script",
@@ -9004,7 +9004,7 @@
     "published_at": "2012-02-05 09:00:00 +0100",
     "title": "Bomb in a Birdcage, de A Fine Frenzy ",
     "author_name": "jesusr",
-    "metadata_song": null,
+    "metadata_song": "",
     "metadata_artist": "A Fine Frenzy",
     "metadata_album": "Bomb on a Birdcage",
     "metadata_year": "2009"
@@ -9036,7 +9036,7 @@
     "author_name": "Johnbo",
     "metadata_song": "Gran Vals",
     "metadata_artist": "Francisco Tárrega",
-    "metadata_album": null,
+    "metadata_album": "",
     "metadata_year": "1902"
   },
   {
@@ -9074,7 +9074,7 @@
     "published_at": "2012-02-12 09:00:38 +0100",
     "title": "Ten pieces to save the world, de Kroke Band",
     "author_name": "Silvia",
-    "metadata_song": null,
+    "metadata_song": "",
     "metadata_artist": "Kroke Band",
     "metadata_album": "Ten pieces to save the world",
     "metadata_year": "2003"
@@ -9284,7 +9284,7 @@
     "published_at": "2012-03-04 08:00:00 +0100",
     "title": "Especial BSO: Super 8",
     "author_name": "jesusr",
-    "metadata_song": null,
+    "metadata_song": "",
     "metadata_artist": "Michael Giacchino",
     "metadata_album": "Super 8",
     "metadata_year": "2011"
@@ -9354,10 +9354,10 @@
     "published_at": "2012-03-11 09:00:04 +0100",
     "title": "Especial: Twelve-step Suite, de Dream Theater",
     "author_name": "skuark",
-    "metadata_song": null,
+    "metadata_song": "",
     "metadata_artist": "Dream Theater",
-    "metadata_album": null,
-    "metadata_year": null
+    "metadata_album": "",
+    "metadata_year": ""
   },
   {
     "id": "2012-03-12-midnight-city-de-m83",
@@ -9404,10 +9404,10 @@
     "published_at": "2012-03-16 08:00:00 +0100",
     "title": "Libertango, de Astor Piazzola",
     "author_name": "Beita",
-    "metadata_song": null,
+    "metadata_song": "",
     "metadata_artist": "Astor Piazzola",
-    "metadata_album": null,
-    "metadata_year": null
+    "metadata_album": "",
+    "metadata_year": ""
   },
   {
     "id": "2012-03-17-el-problema-de-silvio-rodriguez",
@@ -9424,10 +9424,10 @@
     "published_at": "2012-03-18 08:00:00 +0100",
     "title": "The Colourful Life, de Cajun Dance Party",
     "author_name": "Poncho",
-    "metadata_song": null,
+    "metadata_song": "",
     "metadata_artist": "Cajun Dance Party",
     "metadata_album": "The Colourful Life",
-    "metadata_year": null
+    "metadata_year": ""
   },
   {
     "id": "2012-03-19-believe-it-when-i-see-it-de-ron-sexsmith",
@@ -9494,7 +9494,7 @@
     "published_at": "2012-03-25 09:00:53 +0200",
     "title": "Leyendas del Aqueronte, de Reino de Hades",
     "author_name": "skuark",
-    "metadata_song": null,
+    "metadata_song": "",
     "metadata_artist": "Reino de Hades",
     "metadata_album": "Leyendas del Aqueronte",
     "metadata_year": "2012"
@@ -9564,7 +9564,7 @@
     "published_at": "2012-04-01 08:00:16 +0200",
     "title": "Strange Mercy, de St Vincent",
     "author_name": "jesusr",
-    "metadata_song": null,
+    "metadata_song": "",
     "metadata_artist": "St Vincent",
     "metadata_album": "Strange Mercy",
     "metadata_year": "2011"
@@ -9634,7 +9634,7 @@
     "published_at": "2012-04-08 08:00:17 +0200",
     "title": "Especial BSO: El Señor de los Anillos (La Comunidad del Anillo)",
     "author_name": "skuark",
-    "metadata_song": null,
+    "metadata_song": "",
     "metadata_artist": "Howard Shore",
     "metadata_album": "El Señor de los Anillos (La Comunidad del Anillo)",
     "metadata_year": "2001"
@@ -9704,7 +9704,7 @@
     "published_at": "2012-04-15 08:00:27 +0200",
     "title": "BSO: El Príncipe de Egipto",
     "author_name": "medinaman",
-    "metadata_song": null,
+    "metadata_song": "",
     "metadata_artist": "Hans Zimmer",
     "metadata_album": "El príncipe de Egipto",
     "metadata_year": "1998"
@@ -9774,7 +9774,7 @@
     "published_at": "2012-04-22 08:00:00 +0200",
     "title": "BSO: Inteligencia Artificial",
     "author_name": "medinaman",
-    "metadata_song": null,
+    "metadata_song": "",
     "metadata_artist": "John Williams",
     "metadata_album": "Inteligencia Artificial",
     "metadata_year": "2001"
@@ -9844,10 +9844,10 @@
     "published_at": "2012-04-29 08:00:00 +0200",
     "title": "BSO: El Bosque",
     "author_name": "medinaman",
-    "metadata_song": null,
+    "metadata_song": "",
     "metadata_artist": "James Newton Howard",
     "metadata_album": "The Village",
-    "metadata_year": null
+    "metadata_year": ""
   },
   {
     "id": "2012-04-30-sing-for-me-de-andreas-johnson",
@@ -9856,7 +9856,7 @@
     "author_name": "luizk",
     "metadata_song": "Sing for me",
     "metadata_artist": "andreas johnson",
-    "metadata_album": null,
+    "metadata_album": "",
     "metadata_year": "2006"
   },
   {
@@ -9914,10 +9914,10 @@
     "published_at": "2012-05-06 08:00:00 +0200",
     "title": "BSO: Cómo entrenar a tu dragón, de John Powell",
     "author_name": "medinaman",
-    "metadata_song": null,
+    "metadata_song": "",
     "metadata_artist": "John Powell",
-    "metadata_album": null,
-    "metadata_year": null
+    "metadata_album": "",
+    "metadata_year": ""
   },
   {
     "id": "2012-05-07-time-to-pretend-de-mgmt",
@@ -9984,8 +9984,8 @@
     "published_at": "2012-05-13 08:00:46 +0200",
     "title": "BSO: Harry Potter y la Piedra Filosofal",
     "author_name": "Jal",
-    "metadata_song": null,
-    "metadata_artist": null,
+    "metadata_song": "",
+    "metadata_artist": "",
     "metadata_album": "John Williams",
     "metadata_year": "2001"
   },
@@ -10066,7 +10066,7 @@
     "author_name": "jesusr",
     "metadata_song": "Oblivion",
     "metadata_artist": "Astor Piazzolla",
-    "metadata_album": null,
+    "metadata_album": "",
     "metadata_year": "1994"
   },
   {
@@ -10124,7 +10124,7 @@
     "published_at": "2012-05-27 08:33:12 +0200",
     "title": "BSO: Eduardo Manostijeras",
     "author_name": "medinaman",
-    "metadata_song": null,
+    "metadata_song": "",
     "metadata_artist": "Danny Elfman",
     "metadata_album": "Eduardo Manostijeras",
     "metadata_year": "1990"
@@ -10156,8 +10156,8 @@
     "author_name": "reginacc",
     "metadata_song": "Intimidades",
     "metadata_artist": "Elena Bugedo",
-    "metadata_album": null,
-    "metadata_year": null
+    "metadata_album": "",
+    "metadata_year": ""
   },
   {
     "id": "2012-05-31-born-this-way-de-aston",
@@ -10166,7 +10166,7 @@
     "author_name": "Jal",
     "metadata_song": "Born This Way",
     "metadata_artist": "Aston",
-    "metadata_album": null,
+    "metadata_album": "",
     "metadata_year": "2011"
   },
   {
@@ -10264,7 +10264,7 @@
     "published_at": "2012-06-10 08:00:02 +0200",
     "title": "BSO: E.T. el Extraterrestre",
     "author_name": "medinaman",
-    "metadata_song": null,
+    "metadata_song": "",
     "metadata_artist": "John Williams",
     "metadata_album": "OST E.T. Extra Terrestrial",
     "metadata_year": "1982"
@@ -10276,8 +10276,8 @@
     "author_name": "falin_edo",
     "metadata_song": "Reconsider Me",
     "metadata_artist": "Steve Earle",
-    "metadata_album": null,
-    "metadata_year": null
+    "metadata_album": "",
+    "metadata_year": ""
   },
   {
     "id": "2012-06-12-make-a-plan-to-love-me-de-bright-eyes",
@@ -10285,9 +10285,9 @@
     "title": "Make a plan to love me, de Bright Eyes",
     "author_name": "jesusr",
     "metadata_song": "Make a plan to love me",
-    "metadata_artist": null,
-    "metadata_album": null,
-    "metadata_year": null
+    "metadata_artist": "",
+    "metadata_album": "",
+    "metadata_year": ""
   },
   {
     "id": "2012-06-13-alfonsina-y-el-mar-de-mercedes-sosa",
@@ -10334,7 +10334,7 @@
     "published_at": "2012-06-17 08:00:09 +0200",
     "title": "BSO: Matrix Revolutions",
     "author_name": "medinaman",
-    "metadata_song": null,
+    "metadata_song": "",
     "metadata_artist": "Varios Autores",
     "metadata_album": "Matrix Revolutions OST",
     "metadata_year": "2003"
@@ -10404,7 +10404,7 @@
     "published_at": "2012-06-24 08:00:00 +0200",
     "title": "BSO: La vida es bella",
     "author_name": "medinaman",
-    "metadata_song": null,
+    "metadata_song": "",
     "metadata_artist": "Nicola Piovani",
     "metadata_album": "La vida es bella OST",
     "metadata_year": "1997"
@@ -10474,7 +10474,7 @@
     "published_at": "2012-07-01 08:00:27 +0200",
     "title": "Magia y efectos especiales, de Izal",
     "author_name": "jesusr",
-    "metadata_song": null,
+    "metadata_song": "",
     "metadata_artist": "Izal",
     "metadata_album": "Magia y efectos especiales",
     "metadata_year": "2012"
@@ -10544,9 +10544,9 @@
     "published_at": "2012-07-08 09:00:12 +0200",
     "title": "BSO: Amélie",
     "author_name": "medinaman",
-    "metadata_song": null,
+    "metadata_song": "",
     "metadata_artist": "Yann Tiersen",
-    "metadata_album": null,
+    "metadata_album": "",
     "metadata_year": "2001"
   },
   {
@@ -10614,10 +10614,10 @@
     "published_at": "2012-07-15 08:00:54 +0200",
     "title": "BSO: Dragonheart (Corazón de Dragón)",
     "author_name": "medinaman",
-    "metadata_song": null,
+    "metadata_song": "",
     "metadata_artist": "Randy Edelman",
     "metadata_album": "Dragonheart BSO",
-    "metadata_year": null
+    "metadata_year": ""
   },
   {
     "id": "2012-07-16-take-five-de-dave-brubeck-quartet",
@@ -10684,7 +10684,7 @@
     "published_at": "2012-07-22 08:00:59 +0200",
     "title": "BSO: Final Fantasy, de Nobuo Uematsu",
     "author_name": "Jal",
-    "metadata_song": null,
+    "metadata_song": "",
     "metadata_artist": "Nobuo Uematsu",
     "metadata_album": "Distant Worlds I &amp; II",
     "metadata_year": "2012"
@@ -10754,7 +10754,7 @@
     "published_at": "2012-07-29 15:41:37 +0200",
     "title": "Álbum: About a feeling, de Summer Heart",
     "author_name": "jesusr",
-    "metadata_song": null,
+    "metadata_song": "",
     "metadata_artist": "Summer Heart",
     "metadata_album": "About a feeling",
     "metadata_year": "2012"
@@ -10774,10 +10774,10 @@
     "published_at": "2012-07-31 15:45:24 +0200",
     "title": "Especial Un Mar de Canciones 2012",
     "author_name": "Ascen",
-    "metadata_song": null,
+    "metadata_song": "",
     "metadata_artist": "Cristina Márquez",
-    "metadata_album": null,
-    "metadata_year": null
+    "metadata_album": "",
+    "metadata_year": ""
   },
   {
     "id": "2012-09-03-wake-up-boo-de-the-boo-radleys",
@@ -10844,7 +10844,7 @@
     "published_at": "2012-09-09 08:00:00 +0200",
     "title": "BSO: The Dark Knight Rises",
     "author_name": "medinaman",
-    "metadata_song": null,
+    "metadata_song": "",
     "metadata_artist": "Hans Zimmer",
     "metadata_album": "The Dark Knight Rises",
     "metadata_year": "2012"
@@ -10914,7 +10914,7 @@
     "published_at": "2012-09-16 08:00:00 +0200",
     "title": "BSO: WALL·E, de Thomas Newman",
     "author_name": "medinaman",
-    "metadata_song": null,
+    "metadata_song": "",
     "metadata_artist": "Thomas Newman",
     "metadata_album": "BSO: Wall·e",
     "metadata_year": "2008"
@@ -10945,9 +10945,9 @@
     "title": "Romeo and Juliet No 13 Dance of the Knights, de Serguéi Prokófiev (Valery Gergiev, London Symphony Orchestra)",
     "author_name": "skuark",
     "metadata_song": "Romeo and Juliet No 13 Dance of the Knights",
-    "metadata_artist": null,
-    "metadata_album": null,
-    "metadata_year": null
+    "metadata_artist": "",
+    "metadata_album": "",
+    "metadata_year": ""
   },
   {
     "id": "2012-09-20-giants-are-windmills-de-alondra-bentley",
@@ -10984,7 +10984,7 @@
     "published_at": "2012-09-23 08:00:35 +0200",
     "title": "BSO: Fable",
     "author_name": "Jal",
-    "metadata_song": null,
+    "metadata_song": "",
     "metadata_artist": "Russell Shaw",
     "metadata_album": "Fable OST",
     "metadata_year": "2004"
@@ -11054,10 +11054,10 @@
     "published_at": "2012-09-30 12:21:57 +0200",
     "title": "BSO: Titanic",
     "author_name": "medinaman",
-    "metadata_song": null,
+    "metadata_song": "",
     "metadata_artist": "James Horner",
     "metadata_album": "OST Titanic",
-    "metadata_year": null
+    "metadata_year": ""
   },
   {
     "id": "2012-10-01-nadine-de-big-harp",
@@ -11124,17 +11124,17 @@
     "published_at": "2012-10-06 13:48:35 +0200",
     "title": "Nos vemos en el Homenaje al Lagarto Rock",
     "author_name": "dSong",
-    "metadata_song": null,
-    "metadata_artist": null,
-    "metadata_album": null,
-    "metadata_year": null
+    "metadata_song": "",
+    "metadata_artist": "",
+    "metadata_album": "",
+    "metadata_year": ""
   },
   {
     "id": "2012-10-07-bso-origen-inception",
     "published_at": "2012-10-07 13:47:58 +0200",
     "title": "BSO: Origen (Inception)",
     "author_name": "medinaman",
-    "metadata_song": null,
+    "metadata_song": "",
     "metadata_artist": "Hans Zimmer",
     "metadata_album": "OST Inception",
     "metadata_year": "2010"
@@ -11164,10 +11164,10 @@
     "published_at": "2012-10-10 10:00:17 +0200",
     "title": "Especial: Crónica, fotografías y entrevistas en el Homenaje al Lagarto Rock",
     "author_name": "dSong",
-    "metadata_song": null,
-    "metadata_artist": null,
-    "metadata_album": null,
-    "metadata_year": null
+    "metadata_song": "",
+    "metadata_artist": "",
+    "metadata_album": "",
+    "metadata_year": ""
   },
   {
     "id": "2012-10-11-payaso-de-bambino",
@@ -11184,10 +11184,10 @@
     "published_at": "2012-10-11 12:27:22 +0200",
     "title": "Concierto de La Soul Funk",
     "author_name": "jesusr",
-    "metadata_song": null,
+    "metadata_song": "",
     "metadata_artist": "La Soul Funk",
-    "metadata_album": null,
-    "metadata_year": null
+    "metadata_album": "",
+    "metadata_year": ""
   },
   {
     "id": "2012-10-12-no-one-knows-de-queen-of-the-stone-age",
@@ -11214,7 +11214,7 @@
     "published_at": "2012-10-14 08:00:00 +0200",
     "title": "BSO: Brave (Indomable)",
     "author_name": "medinaman",
-    "metadata_song": null,
+    "metadata_song": "",
     "metadata_artist": "Patrick Doyle",
     "metadata_album": "OST: Brave",
     "metadata_year": "2012"
@@ -11224,9 +11224,9 @@
     "published_at": "2012-10-14 14:07:08 +0200",
     "title": "Fería de San Lucas 2012",
     "author_name": "jesusr",
-    "metadata_song": null,
-    "metadata_artist": null,
-    "metadata_album": null,
+    "metadata_song": "",
+    "metadata_artist": "",
+    "metadata_album": "",
     "metadata_year": "2012"
   },
   {
@@ -11264,7 +11264,7 @@
     "published_at": "2012-10-18 08:00:33 +0200",
     "title": "Especial: Lanzamientos otoñales",
     "author_name": "alwayscandy",
-    "metadata_song": null,
+    "metadata_song": "",
     "metadata_artist": "Mumford and Sons",
     "metadata_album": "Coexist",
     "metadata_year": "2012"
@@ -11294,10 +11294,10 @@
     "published_at": "2012-10-21 08:03:58 +0200",
     "title": "BSO: Blade Runner",
     "author_name": "medinaman",
-    "metadata_song": null,
+    "metadata_song": "",
     "metadata_artist": "Vangelis",
     "metadata_album": "OST: Blade Runner",
-    "metadata_year": null
+    "metadata_year": ""
   },
   {
     "id": "2012-10-22-what-im-looking-for-de-brendan-benson",
@@ -11354,10 +11354,10 @@
     "published_at": "2012-10-26 12:00:47 +0200",
     "title": "Beth Loring presenta en acústico su nuevo EP \"Gel y Otros Dioses\"",
     "author_name": "skuark",
-    "metadata_song": null,
+    "metadata_song": "",
     "metadata_artist": "Beth Loring",
     "metadata_album": "Gel y Otros Dioses",
-    "metadata_year": null
+    "metadata_year": ""
   },
   {
     "id": "2012-10-27-i-cant-stop-loving-you-though-i-try-de-leo-sayer",
@@ -11374,7 +11374,7 @@
     "published_at": "2012-10-28 08:00:39 +0100",
     "title": "BSO: La Misión",
     "author_name": "medinaman",
-    "metadata_song": null,
+    "metadata_song": "",
     "metadata_artist": "Ennio Morricone",
     "metadata_album": "The Mission",
     "metadata_year": "1986"
@@ -11406,7 +11406,7 @@
     "author_name": "Monty",
     "metadata_song": "El Emigrante",
     "metadata_artist": "Juanito Valderrama",
-    "metadata_album": null,
+    "metadata_album": "",
     "metadata_year": "1949"
   },
   {
@@ -11444,10 +11444,10 @@
     "published_at": "2012-11-04 08:00:00 +0100",
     "title": "BSO: Drag me to Hell (Arrástrame al Infierno)",
     "author_name": "medinaman",
-    "metadata_song": null,
+    "metadata_song": "",
     "metadata_artist": "Christopher Young",
     "metadata_album": "OST: Drag me to hell",
-    "metadata_year": null
+    "metadata_year": ""
   },
   {
     "id": "2012-11-05-face-down-de-the-red-jumpsuit-apparatus-2",
@@ -11546,7 +11546,7 @@
     "author_name": "Ascen",
     "metadata_song": "Acuario (El Carnaval de los Animales)",
     "metadata_artist": "Camille Saint-Säens",
-    "metadata_album": null,
+    "metadata_album": "",
     "metadata_year": "1886"
   },
   {
@@ -11555,7 +11555,7 @@
     "title": "Born in the '70s, de Ed Harcourt",
     "author_name": "jesusr",
     "metadata_song": "Born in the '70s",
-    "metadata_artist": null,
+    "metadata_artist": "",
     "metadata_album": "Strangers",
     "metadata_year": "2005"
   },
@@ -11574,7 +11574,7 @@
     "published_at": "2012-11-16 11:24:59 +0100",
     "title": "Los Madison en Sala Le Club",
     "author_name": "jesusr",
-    "metadata_song": null,
+    "metadata_song": "",
     "metadata_artist": "Los Madison",
     "metadata_album": "Compás de espera",
     "metadata_year": "2012"
@@ -11587,14 +11587,14 @@
     "metadata_song": "Once around the block",
     "metadata_artist": "Badly Drawn Boy",
     "metadata_album": "The Hour of Bewilderbeast",
-    "metadata_year": null
+    "metadata_year": ""
   },
   {
     "id": "2012-11-18-requiem-de-mozart",
     "published_at": "2012-11-18 08:00:26 +0100",
     "title": "Requiem, de Mozart",
     "author_name": "Jal",
-    "metadata_song": null,
+    "metadata_song": "",
     "metadata_artist": "Wolfang Amadeus Mozart",
     "metadata_album": "Requiem en re menor",
     "metadata_year": "1791"
@@ -11644,9 +11644,9 @@
     "published_at": "2012-11-22 15:46:38 +0100",
     "title": "Los Bizarros, en vivo",
     "author_name": "jesusr",
-    "metadata_song": null,
+    "metadata_song": "",
     "metadata_artist": "Los Bizarros",
-    "metadata_album": null,
+    "metadata_album": "",
     "metadata_year": "2012"
   },
   {
@@ -11674,7 +11674,7 @@
     "published_at": "2012-11-25 08:00:42 +0100",
     "title": "BSO: Memorias de África",
     "author_name": "medinaman",
-    "metadata_song": null,
+    "metadata_song": "",
     "metadata_artist": "John Barry",
     "metadata_album": "BSO: Memorias de Africa",
     "metadata_year": "1985"
@@ -11717,7 +11717,7 @@
     "metadata_song": "Born into a light",
     "metadata_artist": "Ryan Adams",
     "metadata_album": "Cardinalogy",
-    "metadata_year": null
+    "metadata_year": ""
   },
   {
     "id": "2012-11-30-happiness-de-jonsi-alex",
@@ -11744,10 +11744,10 @@
     "published_at": "2012-12-02 08:00:00 +0100",
     "title": "BSO: Lady Halcón",
     "author_name": "medinaman",
-    "metadata_song": null,
+    "metadata_song": "",
     "metadata_artist": "Andrew Powell",
     "metadata_album": "Lady Halcon",
-    "metadata_year": null
+    "metadata_year": ""
   },
   {
     "id": "2012-12-03-me-and-the-moon-de-the-drums",
@@ -11807,14 +11807,14 @@
     "metadata_song": "Somebody new",
     "metadata_artist": "The Amplifetes",
     "metadata_album": "The amplifetes",
-    "metadata_year": null
+    "metadata_year": ""
   },
   {
     "id": "2012-12-09-bso-jurassic-park",
     "published_at": "2012-12-09 08:00:00 +0100",
     "title": "BSO: Jurassic Park",
     "author_name": "medinaman",
-    "metadata_song": null,
+    "metadata_song": "",
     "metadata_artist": "John Williams",
     "metadata_album": "OST: Jurassic Park",
     "metadata_year": "1993"
@@ -11834,9 +11834,9 @@
     "published_at": "2012-12-10 13:31:44 +0100",
     "title": "Innermove: presentación y concierto online",
     "author_name": "jesusr",
-    "metadata_song": null,
+    "metadata_song": "",
     "metadata_artist": "Innermove",
-    "metadata_album": null,
+    "metadata_album": "",
     "metadata_year": "2012"
   },
   {
@@ -11867,7 +11867,7 @@
     "metadata_song": "Paranoid",
     "metadata_artist": "Black Sabbath",
     "metadata_album": "Paranoid",
-    "metadata_year": null
+    "metadata_year": ""
   },
   {
     "id": "2012-12-14-maggot-brain-de-funkadelic",
@@ -11894,7 +11894,7 @@
     "published_at": "2012-12-16 08:00:18 +0100",
     "title": "BSO Videojuego: Shadow of the Colossus",
     "author_name": "Ome Gak",
-    "metadata_song": null,
+    "metadata_song": "",
     "metadata_artist": "Kow Otani",
     "metadata_album": "Shadow of the Colossus: Roar of the Earth",
     "metadata_year": "2005"
@@ -11964,7 +11964,7 @@
     "published_at": "2012-12-23 08:00:37 +0100",
     "title": "BSO Videojuego: Bastion",
     "author_name": "Ome Gak",
-    "metadata_song": null,
+    "metadata_song": "",
     "metadata_artist": "Darren Korb",
     "metadata_album": "Bastion Original Soundtrack",
     "metadata_year": "2011"
@@ -11984,10 +11984,10 @@
     "published_at": "2012-12-25 08:00:15 +0100",
     "title": "Especial: Eclecticismo Navideño (Navidad 2012)",
     "author_name": "Ascen",
-    "metadata_song": null,
+    "metadata_song": "",
     "metadata_artist": "Nancys Rubias",
-    "metadata_album": null,
-    "metadata_year": null
+    "metadata_album": "",
+    "metadata_year": ""
   },
   {
     "id": "2012-12-26-the-windmills-of-your-mind-de-billy-paul",
@@ -12017,7 +12017,7 @@
     "metadata_song": "Baby",
     "metadata_artist": "Justin Bieber",
     "metadata_album": "My World",
-    "metadata_year": null
+    "metadata_year": ""
   },
   {
     "id": "2012-12-29-destination-nonspecific-de-colin-mutcher-4",
@@ -12026,7 +12026,7 @@
     "author_name": "jesusr",
     "metadata_song": "Destination nonspecific",
     "metadata_artist": "Colin Mutchler",
-    "metadata_album": null,
+    "metadata_album": "",
     "metadata_year": "2002"
   },
   {
@@ -12034,10 +12034,10 @@
     "published_at": "2012-12-30 08:00:21 +0100",
     "title": "Especial: Cantantes y músicos fallecidos durante 2012",
     "author_name": "Monty",
-    "metadata_song": null,
+    "metadata_song": "",
     "metadata_artist": "Ravi Shankar",
-    "metadata_album": null,
-    "metadata_year": null
+    "metadata_album": "",
+    "metadata_year": ""
   },
   {
     "id": "2012-12-31-todo-tiene-su-fin-de-modulos",
@@ -12055,7 +12055,7 @@
     "title": "Christmas is all around, de Billy Mack",
     "author_name": "Jal",
     "metadata_song": "Christmas Is All Around",
-    "metadata_artist": null,
+    "metadata_artist": "",
     "metadata_album": "Love Actually OST",
     "metadata_year": "2003"
   },
@@ -12076,7 +12076,7 @@
     "author_name": "Ascen",
     "metadata_song": "A nervous tic motion of the head to the left",
     "metadata_artist": "Andrew Bird",
-    "metadata_album": null,
+    "metadata_album": "",
     "metadata_year": "2005"
   },
   {
@@ -12104,7 +12104,7 @@
     "published_at": "2013-01-06 08:00:33 +0100",
     "title": "BSO Videojuego: VVVVVV",
     "author_name": "Ome Gak",
-    "metadata_song": null,
+    "metadata_song": "",
     "metadata_artist": "Souleye",
     "metadata_album": "PPPPPP: The VVVVVV Soundtrack",
     "metadata_year": "2010"
@@ -12174,7 +12174,7 @@
     "published_at": "2013-01-13 08:00:12 +0100",
     "title": "BSO Videojuego: Starcraft",
     "author_name": "Ome Gak",
-    "metadata_song": null,
+    "metadata_song": "",
     "metadata_artist": "Blizzard",
     "metadata_album": "Starcraft OST",
     "metadata_year": "1998"
@@ -12244,10 +12244,10 @@
     "published_at": "2013-01-20 08:00:00 +0100",
     "title": "BSO: Polar Express",
     "author_name": "medinaman",
-    "metadata_song": null,
+    "metadata_song": "",
     "metadata_artist": "Alan Silvestri",
     "metadata_album": "OST Polar Express",
-    "metadata_year": null
+    "metadata_year": ""
   },
   {
     "id": "2013-01-21-train-song-de-vashti-bunyan",
@@ -12304,10 +12304,10 @@
     "published_at": "2013-01-25 14:30:37 +0100",
     "title": "Beth Loring, El Fin del Mundo y The Big Bench el 1 de Febrero en la Golden West",
     "author_name": "skuark",
-    "metadata_song": null,
+    "metadata_song": "",
     "metadata_artist": "The Big Bench",
-    "metadata_album": null,
-    "metadata_year": null
+    "metadata_album": "",
+    "metadata_year": ""
   },
   {
     "id": "2013-01-26-foreground-de-grizzly-bear",
@@ -12324,9 +12324,9 @@
     "published_at": "2013-01-27 08:00:04 +0100",
     "title": "Musicales de Broadway",
     "author_name": "Monty",
-    "metadata_song": null,
+    "metadata_song": "",
     "metadata_artist": "Stephen Oremus",
-    "metadata_album": null,
+    "metadata_album": "",
     "metadata_year": "2011"
   },
   {
@@ -12394,7 +12394,7 @@
     "published_at": "2013-02-03 08:00:17 +0100",
     "title": "Especial: \"El Día que Murió la Música\" (The Day the Music Died)",
     "author_name": "Jal",
-    "metadata_song": null,
+    "metadata_song": "",
     "metadata_artist": "The Big Bopper",
     "metadata_album": "The Day the Music Died (recopilatorio)",
     "metadata_year": "1959"
@@ -12457,14 +12457,14 @@
     "metadata_song": "I got mine",
     "metadata_artist": "The Black Keys",
     "metadata_album": "Attack and release",
-    "metadata_year": null
+    "metadata_year": ""
   },
   {
     "id": "2013-02-10-bso-avatar",
     "published_at": "2013-02-10 10:00:00 +0100",
     "title": "BSO: Avatar",
     "author_name": "medinaman",
-    "metadata_song": null,
+    "metadata_song": "",
     "metadata_artist": "James Horner",
     "metadata_album": "OST: Avatar",
     "metadata_year": "2011"
@@ -12527,14 +12527,14 @@
     "metadata_song": "I Don't Know What i Can Save You From",
     "metadata_artist": "Kings of Convenience",
     "metadata_album": "Versus",
-    "metadata_year": null
+    "metadata_year": ""
   },
   {
     "id": "2013-02-17-bso-videojuego-castlevania-symphony-of-the-night",
     "published_at": "2013-02-17 08:00:57 +0100",
     "title": "BSO Videojuego: Castlevania Symphony of the Night",
     "author_name": "Ome Gak",
-    "metadata_song": null,
+    "metadata_song": "",
     "metadata_artist": "Michiru Yamane",
     "metadata_album": "Castlevania: Symphony of the Night OST",
     "metadata_year": "1997"
@@ -12637,7 +12637,7 @@
     "metadata_song": "Sunshine of your love",
     "metadata_artist": "Cream",
     "metadata_album": "Strange Brew",
-    "metadata_year": null
+    "metadata_year": ""
   },
   {
     "id": "2013-02-28-marta-sebas-guille-y-los-demas-de-amaral",
@@ -12674,10 +12674,10 @@
     "published_at": "2013-03-03 08:00:00 +0100",
     "title": "BSO: Aladdin, de Alan Menken",
     "author_name": "jesusr",
-    "metadata_song": null,
+    "metadata_song": "",
     "metadata_artist": "Alan Menker",
     "metadata_album": "BSO Aladdin",
-    "metadata_year": null
+    "metadata_year": ""
   },
   {
     "id": "2013-03-04-paraponoi-xenitia-de-eleftheria-arvanitaki",
@@ -12696,7 +12696,7 @@
     "author_name": "Jal",
     "metadata_song": "Ojos verdes",
     "metadata_artist": "Concha Piquer",
-    "metadata_album": null,
+    "metadata_album": "",
     "metadata_year": "1940"
   },
   {
@@ -12744,10 +12744,10 @@
     "published_at": "2013-03-10 08:00:00 +0100",
     "title": "Álbum: Smash, de The Offspring",
     "author_name": "jesusr",
-    "metadata_song": null,
+    "metadata_song": "",
     "metadata_artist": "The Offspring",
     "metadata_album": "Smash",
-    "metadata_year": null
+    "metadata_year": ""
   },
   {
     "id": "2013-03-11-laidu-de-rokia-traore",
@@ -12806,7 +12806,7 @@
     "author_name": "Monty",
     "metadata_song": "Danny Boy",
     "metadata_artist": "Michael Londra",
-    "metadata_album": null,
+    "metadata_album": "",
     "metadata_year": "1913"
   },
   {
@@ -12814,7 +12814,7 @@
     "published_at": "2013-03-17 08:00:30 +0100",
     "title": "José Gómez: \"Autómatas va desde un pop rock asequible hasta un rock un poco más complicado de asimilar\"",
     "author_name": "jesusr",
-    "metadata_song": null,
+    "metadata_song": "",
     "metadata_artist": "Autómatas",
     "metadata_album": "El día en que todo tenga sentido",
     "metadata_year": "2012"
@@ -12836,7 +12836,7 @@
     "author_name": "Jal",
     "metadata_song": "Parte de ti",
     "metadata_artist": "Annabel Lee",
-    "metadata_album": null,
+    "metadata_album": "",
     "metadata_year": "2013"
   },
   {
@@ -12884,7 +12884,7 @@
     "published_at": "2013-03-24 10:00:00 +0100",
     "title": "BSO: La Pasión de Cristo",
     "author_name": "medinaman",
-    "metadata_song": null,
+    "metadata_song": "",
     "metadata_artist": "John Debney",
     "metadata_album": "OST: La Pasión de Cristo",
     "metadata_year": "2004"
@@ -12954,7 +12954,7 @@
     "published_at": "2013-03-31 10:00:00 +0200",
     "title": "Album: Bloodsports, de Suede",
     "author_name": "jesusr",
-    "metadata_song": null,
+    "metadata_song": "",
     "metadata_artist": "Suede",
     "metadata_album": "Bloodsports",
     "metadata_year": "2013"
@@ -12997,7 +12997,7 @@
     "metadata_song": "Angela",
     "metadata_artist": "Jarvis Cocker",
     "metadata_album": "Further Complications",
-    "metadata_year": null
+    "metadata_year": ""
   },
   {
     "id": "2013-04-05-revelations-de-yoko-ono",
@@ -13024,7 +13024,7 @@
     "published_at": "2013-04-07 10:00:00 +0200",
     "title": "BSO: Los mundos de Coraline, de Bruno Coulais",
     "author_name": "medinaman",
-    "metadata_song": null,
+    "metadata_song": "",
     "metadata_artist": "Bruno Coulais",
     "metadata_album": "OST: Coraline",
     "metadata_year": "2009"
@@ -13107,7 +13107,7 @@
     "metadata_song": "Trouble Sleeping",
     "metadata_artist": "The perishers",
     "metadata_album": "Let there be morning",
-    "metadata_year": null
+    "metadata_year": ""
   },
   {
     "id": "2013-04-16-te-debo-un-baile-de-nueva-vulcano",
@@ -13164,7 +13164,7 @@
     "published_at": "2013-04-21 10:00:00 +0200",
     "title": "BSO: Gladiator",
     "author_name": "medinaman",
-    "metadata_song": null,
+    "metadata_song": "",
     "metadata_artist": "Lisa Gerrard",
     "metadata_album": "OST: Gladiator",
     "metadata_year": "2000"
@@ -13234,7 +13234,7 @@
     "published_at": "2013-04-28 10:00:00 +0200",
     "title": "Álbum: The age of understatement, de The last shadow puppets",
     "author_name": "jesusr",
-    "metadata_song": null,
+    "metadata_song": "",
     "metadata_artist": "The last shadow puppets",
     "metadata_album": "The age of understatement",
     "metadata_year": "2007"
@@ -13304,7 +13304,7 @@
     "published_at": "2013-05-05 10:00:00 +0200",
     "title": "BSO: La Pantera Rosa",
     "author_name": "medinaman",
-    "metadata_song": null,
+    "metadata_song": "",
     "metadata_artist": "Henry Mancini",
     "metadata_album": "OST: Pink Panther",
     "metadata_year": "1963"
@@ -13374,9 +13374,9 @@
     "published_at": "2013-05-11 13:30:52 +0200",
     "title": "Presentación del nuevo videoclip de Reino de Hades",
     "author_name": "jesusr",
-    "metadata_song": null,
+    "metadata_song": "",
     "metadata_artist": "Reino de Hades",
-    "metadata_album": null,
+    "metadata_album": "",
     "metadata_year": "2013"
   },
   {
@@ -13384,7 +13384,7 @@
     "published_at": "2013-05-12 10:00:00 +0200",
     "title": "BSO: Mulán",
     "author_name": "medinaman",
-    "metadata_song": null,
+    "metadata_song": "",
     "metadata_artist": "Jerry Goldsmith",
     "metadata_album": "OST: Mulan",
     "metadata_year": "1998"
@@ -13397,7 +13397,7 @@
     "metadata_song": "The time is now",
     "metadata_artist": "Moloko",
     "metadata_album": "Catalogue",
-    "metadata_year": null
+    "metadata_year": ""
   },
   {
     "id": "2013-05-14-baila-morena-de-zucchero",
@@ -13444,20 +13444,20 @@
     "published_at": "2013-05-18 08:00:22 +0200",
     "title": "Especial 4º Aniversario de dSong (1ª Parte)",
     "author_name": "dSong",
-    "metadata_song": null,
+    "metadata_song": "",
     "metadata_artist": "Ravid Goldschmidt",
-    "metadata_album": null,
-    "metadata_year": null
+    "metadata_album": "",
+    "metadata_year": ""
   },
   {
     "id": "2013-05-19-especial-4o-aniversario-de-dsong-2a-parte",
     "published_at": "2013-05-19 08:00:05 +0200",
     "title": "Especial 4º Aniversario de dSong (2ª Parte)",
     "author_name": "dSong",
-    "metadata_song": null,
+    "metadata_song": "",
     "metadata_artist": "Justin Bieber",
-    "metadata_album": null,
-    "metadata_year": null
+    "metadata_album": "",
+    "metadata_year": ""
   },
   {
     "id": "2013-05-20-roma-de-vicente-amigo",
@@ -13524,7 +13524,7 @@
     "published_at": "2013-05-26 10:00:00 +0200",
     "title": "BSO: Small World",
     "author_name": "medinaman",
-    "metadata_song": null,
+    "metadata_song": "",
     "metadata_artist": "Klaus Badelt",
     "metadata_album": "OST: Small World",
     "metadata_year": "2010"
@@ -13564,7 +13564,7 @@
     "published_at": "2013-05-30 08:00:00 +0200",
     "title": "Death to Los Campesinos, de Los Campesinos!",
     "author_name": "jesusr",
-    "metadata_song": null,
+    "metadata_song": "",
     "metadata_artist": "Los Campesinos!",
     "metadata_album": "Hold on now",
     "metadata_year": "2008"
@@ -13585,16 +13585,16 @@
     "title": "Ooh La, de The Kooks",
     "author_name": "Ascen",
     "metadata_song": "Ooh La",
-    "metadata_artist": null,
-    "metadata_album": null,
-    "metadata_year": null
+    "metadata_artist": "",
+    "metadata_album": "",
+    "metadata_year": ""
   },
   {
     "id": "2013-06-02-album-manual-para-los-fieles-de-los-piratas",
     "published_at": "2013-06-02 10:00:00 +0200",
     "title": "Album: Manual para los fieles, de Los Piratas",
     "author_name": "jesusr",
-    "metadata_song": null,
+    "metadata_song": "",
     "metadata_artist": "Los Piratas",
     "metadata_album": "Manual para los fieles",
     "metadata_year": "1997"
@@ -13657,14 +13657,14 @@
     "metadata_song": "Hard to handle",
     "metadata_artist": "The Black Crowes",
     "metadata_album": "Shake your money maker",
-    "metadata_year": null
+    "metadata_year": ""
   },
   {
     "id": "2013-06-09-bso-juego-de-tronos-tercera-temporada",
     "published_at": "2013-06-09 10:00:00 +0200",
     "title": "BSO: Juego de tronos (tercera temporada)",
     "author_name": "medinaman",
-    "metadata_song": null,
+    "metadata_song": "",
     "metadata_artist": "Ramin Djawadi",
     "metadata_album": "OST: Game of Thrones",
     "metadata_year": "2013"
@@ -13716,8 +13716,8 @@
     "author_name": "Johnbo",
     "metadata_song": "All my little words",
     "metadata_artist": "Bambikina",
-    "metadata_album": null,
-    "metadata_year": null
+    "metadata_album": "",
+    "metadata_year": ""
   },
   {
     "id": "2013-06-15-ill-be-your-sylvia-plath-de-laurel-brauns",
@@ -13734,7 +13734,7 @@
     "published_at": "2013-06-16 10:00:00 +0200",
     "title": "BSO: Evil Dead",
     "author_name": "medinaman",
-    "metadata_song": null,
+    "metadata_song": "",
     "metadata_artist": "Roque Baños",
     "metadata_album": "OST: Evil Dead",
     "metadata_year": "2013"
@@ -13804,7 +13804,7 @@
     "published_at": "2013-06-23 10:00:00 +0200",
     "title": "La cuesta de Mr. Bond, de Melón Diesel",
     "author_name": "Johnbo",
-    "metadata_song": null,
+    "metadata_song": "",
     "metadata_artist": "Melon Diesel",
     "metadata_album": "La cuesta de Mr. Bond",
     "metadata_year": "2000"
@@ -13874,7 +13874,7 @@
     "published_at": "2013-06-30 10:00:00 +0200",
     "title": "BSO: Man of Steel",
     "author_name": "medinaman",
-    "metadata_song": null,
+    "metadata_song": "",
     "metadata_artist": "Hans Zimmer",
     "metadata_album": "OST: Man of steel",
     "metadata_year": "2013"
@@ -13944,7 +13944,7 @@
     "published_at": "2013-07-07 10:00:00 +0200",
     "title": "Album: All the little lights, de Passenger",
     "author_name": "jesusr",
-    "metadata_song": null,
+    "metadata_song": "",
     "metadata_artist": "Passenger",
     "metadata_album": "All the little lights",
     "metadata_year": "2013"
@@ -13976,7 +13976,7 @@
     "author_name": "Jal",
     "metadata_song": "Lady Marmalade",
     "metadata_artist": "Patti LaBelle",
-    "metadata_album": null,
+    "metadata_album": "",
     "metadata_year": "1975"
   },
   {
@@ -13986,7 +13986,7 @@
     "author_name": "Ascen",
     "metadata_song": "Live your life",
     "metadata_artist": "Mika",
-    "metadata_album": null,
+    "metadata_album": "",
     "metadata_year": "2013"
   },
   {
@@ -14014,7 +14014,7 @@
     "published_at": "2013-07-14 10:00:00 +0200",
     "title": "BSO: Señales del futuro",
     "author_name": "medinaman",
-    "metadata_song": null,
+    "metadata_song": "",
     "metadata_artist": "Marco Beltrami",
     "metadata_album": "OST: Knowing",
     "metadata_year": "2009"
@@ -14084,10 +14084,10 @@
     "published_at": "2013-07-21 10:00:00 +0200",
     "title": "BSO: Cadena perpetua",
     "author_name": "medinaman",
-    "metadata_song": null,
+    "metadata_song": "",
     "metadata_artist": "Thomas Newman",
     "metadata_album": "OST: The sawshank redemption",
-    "metadata_year": null
+    "metadata_year": ""
   },
   {
     "id": "2013-07-22-rich-woman-de-robert-plant-alison-krauss",
@@ -14117,7 +14117,7 @@
     "metadata_song": "Red Eyes and Tears",
     "metadata_artist": "Black Rebel Motorcycle Club",
     "metadata_album": "Black Rebel Motorcycle Club",
-    "metadata_year": null
+    "metadata_year": ""
   },
   {
     "id": "2013-07-25-chove-en-santiago-de-luar-na-lubre",
@@ -14154,30 +14154,30 @@
     "published_at": "2013-07-28 10:00:00 +0200",
     "title": "Album: Summer Breeze, de The Isley Brothers",
     "author_name": "jesusr",
-    "metadata_song": null,
+    "metadata_song": "",
     "metadata_artist": "The isley brothers",
     "metadata_album": "Summer Breeze",
-    "metadata_year": null
+    "metadata_year": ""
   },
   {
     "id": "2013-07-30-cronica-del-low-cost-festival-2013",
     "published_at": "2013-07-30 10:00:00 +0200",
     "title": "Crónica del Low Cost Festival 2013",
     "author_name": "Johnbo",
-    "metadata_song": null,
-    "metadata_artist": null,
-    "metadata_album": null,
-    "metadata_year": null
+    "metadata_song": "",
+    "metadata_artist": "",
+    "metadata_album": "",
+    "metadata_year": ""
   },
   {
     "id": "2013-08-08-cronica-del-arenal-sound-2013",
     "published_at": "2013-08-08 17:46:48 +0200",
     "title": "Crónica del Arenal Sound 2013",
     "author_name": "Johnbo",
-    "metadata_song": null,
-    "metadata_artist": null,
-    "metadata_album": null,
-    "metadata_year": null
+    "metadata_song": "",
+    "metadata_artist": "",
+    "metadata_album": "",
+    "metadata_year": ""
   },
   {
     "id": "2013-09-02-ruby-de-kaiser-chiefs",
@@ -14244,7 +14244,7 @@
     "published_at": "2013-09-08 10:00:00 +0200",
     "title": "BSO: Pesadilla antes de Navidad",
     "author_name": "medinaman",
-    "metadata_song": null,
+    "metadata_song": "",
     "metadata_artist": "Danny Elfman",
     "metadata_album": "OST: The Nightmare Before Christmas",
     "metadata_year": "1993"
@@ -14314,7 +14314,7 @@
     "published_at": "2013-09-15 10:00:00 +0200",
     "title": "Album: Whatever people say I am, that's what I'm not, de Arctic Monkeys",
     "author_name": "jesusr",
-    "metadata_song": null,
+    "metadata_song": "",
     "metadata_artist": "Arctic Monkeys",
     "metadata_album": "Whatever People Say I Am That's What I'm Not",
     "metadata_year": "2006"
@@ -14327,7 +14327,7 @@
     "metadata_song": "Colegio vacío",
     "metadata_artist": "Fon Román",
     "metadata_album": "Silencio cómodo en un jardín descuidado",
-    "metadata_year": null
+    "metadata_year": ""
   },
   {
     "id": "2013-09-17-whale-de-yellow-ostrich",
@@ -14384,7 +14384,7 @@
     "published_at": "2013-09-22 10:00:00 +0200",
     "title": "BSO: La Bella y la Bestia",
     "author_name": "medinaman",
-    "metadata_song": null,
+    "metadata_song": "",
     "metadata_artist": "Alan Menken",
     "metadata_album": "OST: Beauty and the Beast",
     "metadata_year": "1991"
@@ -14424,10 +14424,10 @@
     "published_at": "2013-09-25 12:00:09 +0200",
     "title": "Vuelve El Lagarto el día 5 de Octubre",
     "author_name": "dSong",
-    "metadata_song": null,
-    "metadata_artist": null,
-    "metadata_album": null,
-    "metadata_year": null
+    "metadata_song": "",
+    "metadata_artist": "",
+    "metadata_album": "",
+    "metadata_year": ""
   },
   {
     "id": "2013-09-26-im-writing-a-novel-de-father-john-misty",
@@ -14464,7 +14464,7 @@
     "published_at": "2013-09-29 10:00:00 +0200",
     "title": "Album: Lisbon, de The Walkmen",
     "author_name": "jesusr",
-    "metadata_song": null,
+    "metadata_song": "",
     "metadata_artist": "The walkmen",
     "metadata_album": "Lisbon",
     "metadata_year": "2010"
@@ -14517,14 +14517,14 @@
     "metadata_song": "Stranded",
     "metadata_artist": "Jack Knife",
     "metadata_album": "Jack Knife",
-    "metadata_year": null
+    "metadata_year": ""
   },
   {
     "id": "2013-10-05-especial-el-lagarto-2013-santo-rostro-y-the-glassphone",
     "published_at": "2013-10-05 23:59:32 +0200",
     "title": "Especial El Lagarto 2013: Santo Rostro y The Glassphone",
     "author_name": "dSong",
-    "metadata_song": null,
+    "metadata_song": "",
     "metadata_artist": "The Glassphone",
     "metadata_album": "Santo Rostro",
     "metadata_year": "2013"
@@ -14535,8 +14535,8 @@
     "title": "Austin City Limits 2013",
     "author_name": "Monty",
     "metadata_song": "Austin City Limits",
-    "metadata_artist": null,
-    "metadata_album": null,
+    "metadata_artist": "",
+    "metadata_album": "",
     "metadata_year": "2013"
   },
   {
@@ -14584,10 +14584,10 @@
     "published_at": "2013-10-10 12:00:18 +0200",
     "title": "Especial El Lagarto 2013: Crónica, Fotografías y Vídeos",
     "author_name": "dSong",
-    "metadata_song": null,
+    "metadata_song": "",
     "metadata_artist": "The Glassphone",
-    "metadata_album": null,
-    "metadata_year": null
+    "metadata_album": "",
+    "metadata_year": ""
   },
   {
     "id": "2013-10-11-when-i-was-your-man-de-bruno-mars",
@@ -14606,15 +14606,15 @@
     "author_name": "Johnbo",
     "metadata_song": "Make your kind of music",
     "metadata_artist": "Mama Cass",
-    "metadata_album": null,
-    "metadata_year": null
+    "metadata_album": "",
+    "metadata_year": ""
   },
   {
     "id": "2013-10-13-bso-forrest-gump",
     "published_at": "2013-10-13 10:00:00 +0200",
     "title": "BSO: Forrest Gump",
     "author_name": "medinaman",
-    "metadata_song": null,
+    "metadata_song": "",
     "metadata_artist": "Alan Silvestri",
     "metadata_album": "OST: Forrest Gump",
     "metadata_year": "1994"
@@ -14684,7 +14684,7 @@
     "published_at": "2013-10-20 10:00:00 +0200",
     "title": "Álbum: Coexist, de The XX",
     "author_name": "jesusr",
-    "metadata_song": null,
+    "metadata_song": "",
     "metadata_artist": "The xx",
     "metadata_album": "Coexist",
     "metadata_year": "2012"
@@ -14754,7 +14754,7 @@
     "published_at": "2013-10-27 10:00:00 +0100",
     "title": "BSO: Lo imposible",
     "author_name": "medinaman",
-    "metadata_song": null,
+    "metadata_song": "",
     "metadata_artist": "Fernando Velázquez",
     "metadata_album": "BSO: Lo imposible",
     "metadata_year": "2012"
@@ -14825,9 +14825,9 @@
     "title": "Boy Bands",
     "author_name": "Monty",
     "metadata_song": "Boy Bands",
-    "metadata_artist": null,
-    "metadata_album": null,
-    "metadata_year": null
+    "metadata_artist": "",
+    "metadata_album": "",
+    "metadata_year": ""
   },
   {
     "id": "2013-11-04-royal-de-pentatonix",
@@ -14894,10 +14894,10 @@
     "published_at": "2013-11-10 10:00:00 +0100",
     "title": "BSO: Garganta Profunda (Deep Throat)",
     "author_name": "medinaman",
-    "metadata_song": null,
+    "metadata_song": "",
     "metadata_artist": "Gerard Damiano",
     "metadata_album": "OST: Deep Throat",
-    "metadata_year": null
+    "metadata_year": ""
   },
   {
     "id": "2013-11-11-painted-by-numbers-de-the-sounds",
@@ -14964,7 +14964,7 @@
     "published_at": "2013-11-17 10:00:00 +0100",
     "title": "BSO: Una proposición indecente",
     "author_name": "medinaman",
-    "metadata_song": null,
+    "metadata_song": "",
     "metadata_artist": "John Barry",
     "metadata_album": "BSO: Una proposición indecente",
     "metadata_year": "1993"
@@ -15034,7 +15034,7 @@
     "published_at": "2013-11-24 10:00:00 +0100",
     "title": "Álbum: Keys to the world, de Richard Ashcroft",
     "author_name": "jesusr",
-    "metadata_song": null,
+    "metadata_song": "",
     "metadata_artist": "Richard Ashcroft",
     "metadata_album": "Keys to the world",
     "metadata_year": "2006"
@@ -15104,7 +15104,7 @@
     "published_at": "2013-12-01 10:00:00 +0100",
     "title": "BSO: Los Juegos del Hambre: En llamas",
     "author_name": "medinaman",
-    "metadata_song": null,
+    "metadata_song": "",
     "metadata_artist": "James Newton Howard",
     "metadata_album": "OST: The Hunger Games: Catching Fire",
     "metadata_year": "2013"
@@ -15126,7 +15126,7 @@
     "author_name": "Johnbo",
     "metadata_song": "Power to all our friends",
     "metadata_artist": "Cliff Richard",
-    "metadata_album": null,
+    "metadata_album": "",
     "metadata_year": "1973"
   },
   {
@@ -15167,14 +15167,14 @@
     "metadata_song": "Análisis estructural de una canción comercial",
     "metadata_artist": "Víctor Lemes",
     "metadata_album": "Lo siento Freud",
-    "metadata_year": null
+    "metadata_year": ""
   },
   {
     "id": "2013-12-08-album-once-i-was-an-eagle-de-laura-marling",
     "published_at": "2013-12-08 10:00:00 +0100",
     "title": "Album: Once i was an eagle, de Laura Marling",
     "author_name": "jesusr",
-    "metadata_song": null,
+    "metadata_song": "",
     "metadata_artist": "Laura Marling",
     "metadata_album": "Once i was an eagle",
     "metadata_year": "2013"
@@ -15244,7 +15244,7 @@
     "published_at": "2013-12-15 10:00:00 +0100",
     "title": "BSO: La delgada línea roja (The Thin Red Line)",
     "author_name": "medinaman",
-    "metadata_song": null,
+    "metadata_song": "",
     "metadata_artist": "Hans Zimmer",
     "metadata_album": "OST: The Thin Red Line",
     "metadata_year": "1998"
@@ -15314,7 +15314,7 @@
     "published_at": "2013-12-22 10:00:00 +0100",
     "title": "BSO: Frozen, el reino del hielo",
     "author_name": "medinaman",
-    "metadata_song": null,
+    "metadata_song": "",
     "metadata_artist": "Christophe Beck",
     "metadata_album": "OST: Frozen",
     "metadata_year": "2013"
@@ -15384,7 +15384,7 @@
     "published_at": "2013-12-29 10:00:00 +0100",
     "title": "Album: Reflektor, de Arcade Fire",
     "author_name": "jesusr",
-    "metadata_song": null,
+    "metadata_song": "",
     "metadata_artist": "Arcade Fire",
     "metadata_album": "Reflektor",
     "metadata_year": "2013"
@@ -15396,7 +15396,7 @@
     "author_name": "Jal",
     "metadata_song": "La Máquina de Escribir",
     "metadata_artist": "Leroy Anderson",
-    "metadata_album": null,
+    "metadata_album": "",
     "metadata_year": "1950"
   },
   {
@@ -15406,7 +15406,7 @@
     "author_name": "jesusr",
     "metadata_song": "What Are You Doing New Years Eve?",
     "metadata_artist": "Joseph Gordon-Levitt",
-    "metadata_album": null,
+    "metadata_album": "",
     "metadata_year": "2011"
   },
   {
@@ -15454,7 +15454,7 @@
     "published_at": "2014-01-05 10:00:00 +0100",
     "title": "BSO: American Beauty",
     "author_name": "medinaman",
-    "metadata_song": null,
+    "metadata_song": "",
     "metadata_artist": "Thomas Newman",
     "metadata_album": "OST: American Beauty",
     "metadata_year": "2000"
@@ -15524,7 +15524,7 @@
     "published_at": "2014-01-12 10:00:00 +0100",
     "title": "Album: Tienen sabor, de Los Rodríguez",
     "author_name": "jesusr",
-    "metadata_song": null,
+    "metadata_song": "",
     "metadata_artist": "Los Rodríguez",
     "metadata_album": "Tienen sabor",
     "metadata_year": "2012"
@@ -15546,7 +15546,7 @@
     "author_name": "Ascen",
     "metadata_song": "La Catedral",
     "metadata_artist": "Agustín Barrios",
-    "metadata_album": null,
+    "metadata_album": "",
     "metadata_year": "1921"
   },
   {
@@ -15594,7 +15594,7 @@
     "published_at": "2014-01-19 10:00:00 +0100",
     "title": "BSO: La vida de Pi",
     "author_name": "medinaman",
-    "metadata_song": null,
+    "metadata_song": "",
     "metadata_artist": "Mychael Danna",
     "metadata_album": "OST: Life of Pi",
     "metadata_year": "2013"
@@ -15645,7 +15645,7 @@
     "title": "Sad Song, de Beth",
     "author_name": "Brian Edward Hyde",
     "metadata_song": "Sad song",
-    "metadata_artist": null,
+    "metadata_artist": "",
     "metadata_album": "My own way home",
     "metadata_year": "2006"
   },
@@ -15664,7 +15664,7 @@
     "published_at": "2014-01-26 10:00:00 +0100",
     "title": "Album: No time for dreaming (Re-issue), de Charles Bradley",
     "author_name": "jesusr",
-    "metadata_song": null,
+    "metadata_song": "",
     "metadata_artist": "Charles Bradley",
     "metadata_album": "No time for dreaming",
     "metadata_year": "2011"
@@ -15714,7 +15714,7 @@
     "published_at": "2014-01-31 07:00:40 +0100",
     "title": "Revivre, de Gérard Manset",
     "author_name": "Brian Edward Hyde",
-    "metadata_song": null,
+    "metadata_song": "",
     "metadata_artist": "Gérard Manset",
     "metadata_album": "Revivre",
     "metadata_year": "1991"
@@ -15736,8 +15736,8 @@
     "author_name": "Monty",
     "metadata_song": "Uno de Enero",
     "metadata_artist": "Ignacio Baleztena",
-    "metadata_album": null,
-    "metadata_year": null
+    "metadata_album": "",
+    "metadata_year": ""
   },
   {
     "id": "2014-02-03-en-la-gruta-del-rey-de-la-montana-de-edvard-grieg",
@@ -15804,7 +15804,7 @@
     "published_at": "2014-02-09 10:00:00 +0100",
     "title": "BSO: El rey león",
     "author_name": "medinaman",
-    "metadata_song": null,
+    "metadata_song": "",
     "metadata_artist": "Hans Zimmer",
     "metadata_album": "OST: The lion King",
     "metadata_year": "1994"
@@ -15874,7 +15874,7 @@
     "published_at": "2014-02-16 10:00:00 +0100",
     "title": "Enter The 37th Chamber, de El Michels Affair",
     "author_name": "jesusr",
-    "metadata_song": null,
+    "metadata_song": "",
     "metadata_artist": "El Michels Affair",
     "metadata_album": "Enter The 37th Chamber",
     "metadata_year": "2009"
@@ -15897,7 +15897,7 @@
     "metadata_song": "Come lay some loving on me",
     "metadata_artist": "Jenny Taylor",
     "metadata_album": "Trojan Club Reggae Box Set",
-    "metadata_year": null
+    "metadata_year": ""
   },
   {
     "id": "2014-02-19-pencil-full-of-lead-de-paolo-nutini",
@@ -15944,7 +15944,7 @@
     "published_at": "2014-02-23 10:00:00 +0100",
     "title": "Álbum: Liquid Spirit, de Gregory Porter",
     "author_name": "jesusr",
-    "metadata_song": null,
+    "metadata_song": "",
     "metadata_artist": "Gregory Porter",
     "metadata_album": "Liquid Spirit",
     "metadata_year": "2013"
@@ -15986,7 +15986,7 @@
     "author_name": "Johnbo",
     "metadata_song": "House of the rising sun",
     "metadata_artist": "The Animals",
-    "metadata_album": null,
+    "metadata_album": "",
     "metadata_year": "1964"
   },
   {
@@ -16014,7 +16014,7 @@
     "published_at": "2014-03-02 10:00:00 +0100",
     "title": "BSO: El tiempo entre costuras",
     "author_name": "medinaman",
-    "metadata_song": null,
+    "metadata_song": "",
     "metadata_artist": "César Benito",
     "metadata_album": "BSO: El tiempo entre costuras",
     "metadata_year": "2013"
@@ -16076,7 +16076,7 @@
     "author_name": "Monty",
     "metadata_song": "Overwhelmed",
     "metadata_artist": "Tim McMorris",
-    "metadata_album": null,
+    "metadata_album": "",
     "metadata_year": "2011"
   },
   {
@@ -16084,7 +16084,7 @@
     "published_at": "2014-03-09 08:00:48 +0100",
     "title": "Subterfuge Records",
     "author_name": "Monty",
-    "metadata_song": null,
+    "metadata_song": "",
     "metadata_artist": "Varios",
     "metadata_album": "Varios",
     "metadata_year": "1989-2014"
@@ -16096,7 +16096,7 @@
     "author_name": "Jal",
     "metadata_song": "Estudio Revolucionario",
     "metadata_artist": "Chopin",
-    "metadata_album": null,
+    "metadata_album": "",
     "metadata_year": "1831"
   },
   {
@@ -16154,7 +16154,7 @@
     "published_at": "2014-03-16 10:00:22 +0100",
     "title": "Album: Anuario, de Hugo Arán",
     "author_name": "Poncho",
-    "metadata_song": null,
+    "metadata_song": "",
     "metadata_artist": "Hugo Arán",
     "metadata_album": "Anuario",
     "metadata_year": "2014"
@@ -16224,7 +16224,7 @@
     "published_at": "2014-03-23 10:00:00 +0100",
     "title": "BSO: El Último Mohicano",
     "author_name": "medinaman",
-    "metadata_song": null,
+    "metadata_song": "",
     "metadata_artist": "Trevor Jones",
     "metadata_album": "OST: The last mohican",
     "metadata_year": "1992"
@@ -16294,7 +16294,7 @@
     "published_at": "2014-03-30 10:00:00 +0200",
     "title": "Argentina Songbook, de El Twanguero",
     "author_name": "jesusr",
-    "metadata_song": null,
+    "metadata_song": "",
     "metadata_artist": "Diego García",
     "metadata_album": "Argentina Songbook",
     "metadata_year": "2014"
@@ -16426,15 +16426,15 @@
     "author_name": "Ascen",
     "metadata_song": "Tecnohits que bailaste de joven, no lo niegues",
     "metadata_artist": "El niño de la hipoteca",
-    "metadata_album": null,
-    "metadata_year": null
+    "metadata_album": "",
+    "metadata_year": ""
   },
   {
     "id": "2014-04-13-introducing-de-the-slim-moore-the-mar-kays",
     "published_at": "2014-04-13 10:00:00 +0200",
     "title": "Introducing, de the Slim Moore & the Mar-Kays",
     "author_name": "jesusr",
-    "metadata_song": null,
+    "metadata_song": "",
     "metadata_artist": "Slim Moore &amp; the Mar-Kays",
     "metadata_album": "Introducing Slim Moore &amp; the Mar-Kays",
     "metadata_year": "2011"
@@ -16456,7 +16456,7 @@
     "author_name": "Ascen",
     "metadata_song": "Y sin embargo te quiero",
     "metadata_artist": "Asier Etxeandia",
-    "metadata_album": null,
+    "metadata_album": "",
     "metadata_year": "2012"
   },
   {
@@ -16504,7 +16504,7 @@
     "published_at": "2014-04-20 08:00:50 +0200",
     "title": "Out among the stars, de Johnny Cash",
     "author_name": "Monty",
-    "metadata_song": null,
+    "metadata_song": "",
     "metadata_artist": "Johnny Cash",
     "metadata_album": "Out among the stars",
     "metadata_year": "2014"
@@ -16526,7 +16526,7 @@
     "author_name": "Ascen",
     "metadata_song": "El trino del diablo",
     "metadata_artist": "Giuseppe Tartini",
-    "metadata_album": null,
+    "metadata_album": "",
     "metadata_year": "1713"
   },
   {
@@ -16574,7 +16574,7 @@
     "published_at": "2014-04-27 10:00:00 +0200",
     "title": "Álbum: Keep it Hid, de Dan Auerbach",
     "author_name": "jesusr",
-    "metadata_song": null,
+    "metadata_song": "",
     "metadata_artist": "Dan Auerbach",
     "metadata_album": "Keep it hid",
     "metadata_year": "2009"
@@ -16644,7 +16644,7 @@
     "published_at": "2014-05-04 10:00:00 +0200",
     "title": "BSO: El Juego de Ender",
     "author_name": "medinaman",
-    "metadata_song": null,
+    "metadata_song": "",
     "metadata_artist": "Steve Jablonsky",
     "metadata_album": "OST: Ender's Game",
     "metadata_year": "2013"
@@ -16654,7 +16654,7 @@
     "published_at": "2014-05-05 08:00:49 +0200",
     "title": "Chas! Y aparezco a tu lado, de Álex y Christina",
     "author_name": "Jal",
-    "metadata_song": null,
+    "metadata_song": "",
     "metadata_artist": "Álex y Christina",
     "metadata_album": "Álex y Christina",
     "metadata_year": "1987"
@@ -16714,7 +16714,7 @@
     "published_at": "2014-05-11 10:00:00 +0200",
     "title": "Álbum: Gotas suicidas (EP), de Isma Romero",
     "author_name": "jesusr",
-    "metadata_song": null,
+    "metadata_song": "",
     "metadata_artist": "Isma Romero",
     "metadata_album": "Gotas suicidas",
     "metadata_year": "2014"
@@ -16854,7 +16854,7 @@
     "published_at": "2014-05-25 17:47:19 +0200",
     "title": "Día de la Música 2014",
     "author_name": "Monty",
-    "metadata_song": null,
+    "metadata_song": "",
     "metadata_artist": "Varios",
     "metadata_album": "Varios",
     "metadata_year": "2014"
@@ -16924,7 +16924,7 @@
     "published_at": "2014-06-01 10:00:00 +0200",
     "title": "Album: Everyday Robots, de Damon Albarn",
     "author_name": "jesusr",
-    "metadata_song": null,
+    "metadata_song": "",
     "metadata_artist": "Damon Albarn",
     "metadata_album": "Everyday Robots",
     "metadata_year": "2014"
@@ -16994,10 +16994,10 @@
     "published_at": "2014-06-08 08:00:48 +0200",
     "title": "Julio Demonio: \"Lo que en un principio parecía un broma eventual se acabó consolidando y así es como ahora me conoce la gente\"",
     "author_name": "Ascen",
-    "metadata_song": null,
-    "metadata_artist": null,
-    "metadata_album": null,
-    "metadata_year": null
+    "metadata_song": "",
+    "metadata_artist": "",
+    "metadata_album": "",
+    "metadata_year": ""
   },
   {
     "id": "2014-06-09-crash-de-the-primitives",
@@ -17056,8 +17056,8 @@
     "author_name": "Johnbo",
     "metadata_song": "El hombre caimán",
     "metadata_artist": "José María Peñaranda",
-    "metadata_album": null,
-    "metadata_year": null
+    "metadata_album": "",
+    "metadata_year": ""
   },
   {
     "id": "2014-06-15-todos-tus-caballos-de-carreras-ricardo-vicente-francisco-nixon-y-the-new-raemon",
@@ -17204,10 +17204,10 @@
     "published_at": "2014-06-29 10:00:00 +0200",
     "title": "Las otras canciones de Brasil 2014",
     "author_name": "Johnbo",
-    "metadata_song": null,
-    "metadata_artist": null,
-    "metadata_album": null,
-    "metadata_year": null
+    "metadata_song": "",
+    "metadata_artist": "",
+    "metadata_album": "",
+    "metadata_year": ""
   },
   {
     "id": "2014-06-30-laura-no-esta-de-nek",
@@ -17306,7 +17306,7 @@
     "author_name": "Ascen",
     "metadata_song": "Avanzan las negociaciones",
     "metadata_artist": "León Benavente",
-    "metadata_album": null,
+    "metadata_album": "",
     "metadata_year": "2013"
   },
   {
@@ -17315,8 +17315,8 @@
     "title": "Happy Birthday to You, de Patty y Mildred Hill",
     "author_name": "Monty",
     "metadata_song": "Happy Birthday to You",
-    "metadata_artist": null,
-    "metadata_album": null,
+    "metadata_artist": "",
+    "metadata_album": "",
     "metadata_year": "1893"
   },
   {
@@ -17414,7 +17414,7 @@
     "published_at": "2014-07-20 22:12:59 +0200",
     "title": "Album: Americana, de The Offspring",
     "author_name": "Johnbo",
-    "metadata_song": null,
+    "metadata_song": "",
     "metadata_artist": "The Offspring",
     "metadata_album": "Americana",
     "metadata_year": "1998"
@@ -17426,7 +17426,7 @@
     "author_name": "Jal",
     "metadata_song": "Futurama",
     "metadata_artist": "Christopher Tyng",
-    "metadata_album": null,
+    "metadata_album": "",
     "metadata_year": "1999"
   },
   {
@@ -17466,8 +17466,8 @@
     "author_name": "Ascen",
     "metadata_song": "Dans la maison",
     "metadata_artist": "Philippe Rombi",
-    "metadata_album": null,
-    "metadata_year": null
+    "metadata_album": "",
+    "metadata_year": ""
   },
   {
     "id": "2014-07-26-changes-de-faul-wad-ad-vs-pnau",
@@ -17484,7 +17484,7 @@
     "published_at": "2014-07-27 10:00:00 +0200",
     "title": "Álbum: Me and Armini, de Emilíana Torrini",
     "author_name": "jesusr",
-    "metadata_song": null,
+    "metadata_song": "",
     "metadata_artist": "Emiliana Torrini",
     "metadata_album": "Me And Armini",
     "metadata_year": "2008"
@@ -17564,7 +17564,7 @@
     "published_at": "2014-09-07 10:00:00 +0200",
     "title": "Where you stand, de Travis",
     "author_name": "jesusr",
-    "metadata_song": null,
+    "metadata_song": "",
     "metadata_artist": "Travis",
     "metadata_album": "Where you stand",
     "metadata_year": "2014"
@@ -17634,7 +17634,7 @@
     "published_at": "2014-09-14 10:00:00 +0200",
     "title": "Overgrown, de James Blake",
     "author_name": "jesusr",
-    "metadata_song": null,
+    "metadata_song": "",
     "metadata_artist": "James Blake",
     "metadata_album": "Overgrown",
     "metadata_year": "2013"
@@ -17677,7 +17677,7 @@
     "metadata_song": "La Tarara",
     "metadata_artist": "Federico García Lorca",
     "metadata_album": "Varios",
-    "metadata_year": null
+    "metadata_year": ""
   },
   {
     "id": "2014-09-19-rasputin-de-boney",
@@ -17746,7 +17746,7 @@
     "author_name": "Jal",
     "metadata_song": "The Secret of Monkey Island (main theme)",
     "metadata_artist": "Michael Land",
-    "metadata_album": null,
+    "metadata_album": "",
     "metadata_year": "1990"
   },
   {
@@ -17764,7 +17764,7 @@
     "published_at": "2014-09-28 10:00:00 +0200",
     "title": "Album: Ryan Adams, de Ryan Adams",
     "author_name": "jesusr",
-    "metadata_song": null,
+    "metadata_song": "",
     "metadata_artist": "Ryan Adams",
     "metadata_album": "Ryan Adams",
     "metadata_year": "2014"
@@ -17834,7 +17834,7 @@
     "published_at": "2014-10-05 10:00:00 +0200",
     "title": "Álbum: Lazaretto, de Jack White",
     "author_name": "jesusr",
-    "metadata_song": null,
+    "metadata_song": "",
     "metadata_artist": "Jack White",
     "metadata_album": "Lazaretto",
     "metadata_year": "2014"
@@ -17936,8 +17936,8 @@
     "author_name": "Silvia",
     "metadata_song": "Ela Ela",
     "metadata_artist": "The Zuralia Orchestra",
-    "metadata_album": null,
-    "metadata_year": null
+    "metadata_album": "",
+    "metadata_year": ""
   },
   {
     "id": "2014-10-16-joyride-de-roxette",
@@ -18006,7 +18006,7 @@
     "author_name": "Silvia",
     "metadata_song": "Hava Nagila",
     "metadata_artist": "Moshé Nathanson",
-    "metadata_album": null,
+    "metadata_album": "",
     "metadata_year": "1914"
   },
   {
@@ -18017,7 +18017,7 @@
     "metadata_song": "Una vieja y un viejo",
     "metadata_artist": "El Payo Juan Manuel",
     "metadata_album": "La Gran Colección de el Payo Juan Manuel Vol. 5",
-    "metadata_year": null
+    "metadata_year": ""
   },
   {
     "id": "2014-10-24-chandelier-de-sia",
@@ -18037,7 +18037,7 @@
     "metadata_song": "We are here",
     "metadata_artist": "Alicia Keys",
     "metadata_album": "We are here",
-    "metadata_year": null
+    "metadata_year": ""
   },
   {
     "id": "2014-10-26-bolero-do-coronel-sensivel-que-faz-amor-en-monsanto-de-a-naifa",
@@ -18136,7 +18136,7 @@
     "author_name": "Ascen",
     "metadata_song": "Where the heart is",
     "metadata_artist": "Haevn",
-    "metadata_album": null,
+    "metadata_album": "",
     "metadata_year": "2014"
   },
   {
@@ -18167,7 +18167,7 @@
     "metadata_song": "Varios",
     "metadata_artist": "Varios",
     "metadata_album": "Varios",
-    "metadata_year": null
+    "metadata_year": ""
   },
   {
     "id": "2014-11-10-hooked-on-a-feeling-de-blue-swede",
@@ -18224,20 +18224,20 @@
     "published_at": "2014-11-15 08:00:00 +0100",
     "title": "Especial Versiones (I)",
     "author_name": "Monty",
-    "metadata_song": null,
+    "metadata_song": "",
     "metadata_artist": "Varios",
     "metadata_album": "Varios",
-    "metadata_year": null
+    "metadata_year": ""
   },
   {
     "id": "2014-11-16-especial-versiones-y-ii",
     "published_at": "2014-11-16 08:00:00 +0100",
     "title": "Especial Versiones (y II)",
     "author_name": "Monty",
-    "metadata_song": null,
+    "metadata_song": "",
     "metadata_artist": "Varios",
     "metadata_album": "Varios",
-    "metadata_year": null
+    "metadata_year": ""
   },
   {
     "id": "2014-11-17-everyone-else-has-had-more-sex-than-me-de-tism",
@@ -18296,8 +18296,8 @@
     "author_name": "Johnbo",
     "metadata_song": "Fado Malhoa",
     "metadata_artist": "Amália Rodrigues",
-    "metadata_album": null,
-    "metadata_year": null
+    "metadata_album": "",
+    "metadata_year": ""
   },
   {
     "id": "2014-11-23-cinderella-de-steven-curtis-chapman",
@@ -18386,7 +18386,7 @@
     "author_name": "Monty",
     "metadata_song": "Non, je ne regrette rien",
     "metadata_artist": "Édith Piaf",
-    "metadata_album": null,
+    "metadata_album": "",
     "metadata_year": "1956"
   },
   {
@@ -18406,7 +18406,7 @@
     "author_name": "Monty",
     "metadata_song": "Where have all the flowers gone?",
     "metadata_artist": "Marlene Dietrich",
-    "metadata_album": null,
+    "metadata_album": "",
     "metadata_year": "1955"
   },
   {
@@ -18456,7 +18456,7 @@
     "author_name": "Monty",
     "metadata_song": "This land is your land",
     "metadata_artist": "Woody Guthrie",
-    "metadata_album": null,
+    "metadata_album": "",
     "metadata_year": "1944"
   },
   {
@@ -18546,8 +18546,8 @@
     "author_name": "Monty",
     "metadata_song": "Varios",
     "metadata_artist": "Varios",
-    "metadata_album": null,
-    "metadata_year": null
+    "metadata_album": "",
+    "metadata_year": ""
   },
   {
     "id": "2014-12-31-especial-cantantes-y-musicos-que-nos-dejaron-en-2014",
@@ -18556,15 +18556,15 @@
     "author_name": "Monty",
     "metadata_song": "Varios",
     "metadata_artist": "Le Roux",
-    "metadata_album": null,
-    "metadata_year": null
+    "metadata_album": "",
+    "metadata_year": ""
   },
   {
     "id": "2015-01-04-que-nos-deparara-musicalmente-el-2015",
     "published_at": "2015-01-04 08:00:20 +0100",
     "title": "¿Qué nos deparará musicalmente el 2015?",
     "author_name": "Monty",
-    "metadata_song": null,
+    "metadata_song": "",
     "metadata_artist": "Lil Wayne",
     "metadata_album": "Varios",
     "metadata_year": "2015"
@@ -18584,9 +18584,9 @@
     "published_at": "2015-01-11 10:00:00 +0100",
     "title": "¿Qué nos deparará musicalmente el 2015?: Segunda parte",
     "author_name": "jesusr",
-    "metadata_song": null,
+    "metadata_song": "",
     "metadata_artist": "Faith no more",
-    "metadata_album": null,
+    "metadata_album": "",
     "metadata_year": "2015"
   },
   {
@@ -18654,7 +18654,7 @@
     "published_at": "2015-02-11 10:00:00 +0100",
     "title": "Hoy empieza todo, de Superalfa!",
     "author_name": "jesusr",
-    "metadata_song": null,
+    "metadata_song": "",
     "metadata_artist": "Superalfa!",
     "metadata_album": "Hoy empieza todo",
     "metadata_year": "2015"
@@ -18664,7 +18664,7 @@
     "published_at": "2015-02-16 09:00:08 +0100",
     "title": "El tiempo recobrado, de Home",
     "author_name": "jesusr",
-    "metadata_song": null,
+    "metadata_song": "",
     "metadata_artist": "Home",
     "metadata_album": "El tiempo recobrado",
     "metadata_year": "2014"
@@ -18674,7 +18674,7 @@
     "published_at": "2015-02-21 13:52:41 +0100",
     "title": "Timewave, de Timewave",
     "author_name": "jesusr",
-    "metadata_song": null,
+    "metadata_song": "",
     "metadata_artist": "Timewave",
     "metadata_album": "Timewave",
     "metadata_year": "2015"
@@ -18694,7 +18694,7 @@
     "published_at": "2015-03-10 10:00:00 +0100",
     "title": "Ya era hora, de Los Vecinos del Callejón",
     "author_name": "jesusr",
-    "metadata_song": null,
+    "metadata_song": "",
     "metadata_artist": "Los vecinos del callejón",
     "metadata_album": "Ya era hora",
     "metadata_year": "2015"
@@ -18704,7 +18704,7 @@
     "published_at": "2015-03-18 10:00:00 +0100",
     "title": "Ni fuimos, ni somos, ni seremos heroes, de Alondra Galopa",
     "author_name": "jesusr",
-    "metadata_song": null,
+    "metadata_song": "",
     "metadata_artist": "Alondra Galopa",
     "metadata_album": "Alondra Galopa",
     "metadata_year": "2015"
@@ -18794,10 +18794,10 @@
     "published_at": "2015-06-08 10:00:09 +0200",
     "title": "Hagamos realidad el documental del Homenaje al Lagarto Rock",
     "author_name": "skuark",
-    "metadata_song": null,
-    "metadata_artist": null,
-    "metadata_album": null,
-    "metadata_year": null
+    "metadata_song": "",
+    "metadata_artist": "",
+    "metadata_album": "",
+    "metadata_year": ""
   },
   {
     "id": "2015-06-22-renegades-de-x-ambassadors",
@@ -18934,7 +18934,7 @@
     "published_at": "2016-09-01 11:00:28 +0200",
     "title": "Me mata si me necesitas, de Quique González",
     "author_name": "jesusr",
-    "metadata_song": null,
+    "metadata_song": "",
     "metadata_artist": "Quique González",
     "metadata_album": "Me mata si me necesitas",
     "metadata_year": "2016"
@@ -18944,7 +18944,7 @@
     "published_at": "2016-09-08 10:43:51 +0200",
     "title": "Babilonia, de Revolver",
     "author_name": "jesusr",
-    "metadata_song": null,
+    "metadata_song": "",
     "metadata_artist": "Revolver",
     "metadata_album": "Babilonia",
     "metadata_year": "2015"
@@ -18954,7 +18954,7 @@
     "published_at": "2016-09-15 11:19:58 +0200",
     "title": "Nueve canciones de amor y una de esperanza, de Elefantes",
     "author_name": "jesusr",
-    "metadata_song": null,
+    "metadata_song": "",
     "metadata_artist": "Elefantes",
     "metadata_album": "Nueve canciones de amor y una de esperanza",
     "metadata_year": "2016"
@@ -18964,7 +18964,7 @@
     "published_at": "2016-09-22 11:00:00 +0200",
     "title": "Manual para los fieles, de Los Piratas",
     "author_name": "jesusr",
-    "metadata_song": null,
+    "metadata_song": "",
     "metadata_artist": "Los Piratas",
     "metadata_album": "Manual para los fieles",
     "metadata_year": "1997"
@@ -18974,7 +18974,7 @@
     "published_at": "2016-09-29 10:00:00 +0200",
     "title": "Deshielo, de El Gran Oso Blanco",
     "author_name": "jesusr",
-    "metadata_song": null,
+    "metadata_song": "",
     "metadata_artist": "El gran oso blanco",
     "metadata_album": "Deshielo",
     "metadata_year": "2016"
