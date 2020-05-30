@@ -24,6 +24,15 @@
   display: inline;
   padding: .5rem;
   vertical-align: middle;
+
+  a {
+    padding: .2rem .5rem;
+    border-radius: .5rem;
+  }
+
+  .router-link-active {
+    background-color: $yellow;
+  }
 }
 
 .header__menu--dices {
