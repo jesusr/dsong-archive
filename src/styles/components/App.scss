@@ -1,5 +1,4 @@
 .app {
-  background-color: #f8f3eb;
   font-family: $titillium;
   min-height: 100vh;
 }
@@ -11,5 +10,6 @@
 }
 
 .page-archive .app-wrapper {
-  max-width: 80rem;
+  min-width: 80rem;
+  max-width: 120rem;
 }

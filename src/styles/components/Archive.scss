@@ -1,9 +1,7 @@
-.archive {
+.archive {}
 
-}
-
-.archive-table-wrapper {
-  overflow-x: auto;
+.archive-loading {
+  text-align: center;
 }
 
 .archive-table {
@@ -11,7 +9,7 @@
   font-size: .8rem;
   margin-bottom: 1rem;
   table-layout: fixed;
-  width: 80rem;
+  width: 100%;
 
   thead {
     font-weight: bold;
@@ -21,7 +19,13 @@
     background: $black;
     color: $white;
     padding: .5rem;
+    position: sticky;
     text-align: left;
+    top: -2px;
+
+    a {
+      color: $white;
+    }
   }
 
   tr {
@@ -65,13 +69,39 @@
   width: 12%;
 }
 
+.archive-table__sort--asc {
+  &:after {
+    content: "🔼";
+    display: inline-block;
+    font-size: .6rem;
+    margin-left: .2rem;
+    margin-top: -.1rem;
+    text-decoration: none;
+    vertical-align: middle;
+  }
+}
+
+.archive-table__sort--desc {
+  &:after {
+    content: "🔽";
+    display: inline-block;
+    font-size: .6rem;
+    margin-left: .2rem;
+    margin-top: -.1rem;
+    text-decoration: none;
+    vertical-align: middle;
+  }
+}
+
 .archive-table__remove-filter {
   text-decoration: none;
 
   &:before {
     content: " ❌";
+    display: inline-block;
     font-size: .5rem;
     margin-left: .2rem;
+    margin-top: -.3rem;
     vertical-align: middle;
   }
 }
