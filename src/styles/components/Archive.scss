@@ -1,13 +1,12 @@
-.archive {}
-
-.archive-loading {
-  text-align: center;
+.archive {
+  display: grid;
 }
 
 .archive-table {
   border: 2px solid $black;
   font-size: .8rem;
   margin-bottom: 1rem;
+  min-width: 80rem;
   table-layout: fixed;
   width: 100%;
 

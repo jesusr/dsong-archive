@@ -26,7 +26,7 @@
       </thead>
       <tbody v-if="isLoading">
         <tr>
-          <td colspan="7" class="archive-loading">Un segundín…</td>
+          <td colspan="7">Cargando datos…</td>
         </tr>
       </tbody>
       <tbody v-if="!isLoading">
