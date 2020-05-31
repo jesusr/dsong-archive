@@ -4,10 +4,6 @@
 
 https://dsong.skuark.com/
 
-## About
-
-https://dsong.skuark.com/#/acerca-de
-
 ---
 
 ## Project setup

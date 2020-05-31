@@ -233,5 +233,5 @@ export default {
 </script>
 
 <style lang="scss">
-@import "../styles/components/About.scss";
+@import "../styles/components/Archive.scss";
 </style>
