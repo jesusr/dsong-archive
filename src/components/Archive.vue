@@ -19,6 +19,9 @@
           <th class="archive-table__cell--year">
             <router-link :to="{ query: filter({ sortCriteria: 'year', sortMode: sortMode('year') }) }" :class="sortModeClassFor('year')">Año</router-link>
           </th>
+          <th class="archive-table__cell--category">
+            <router-link :to="{ query: filter({ sortCriteria: 'category', sortMode: sortMode('category') }) }" :class="sortModeClassFor('category')">Categoría</router-link>
+          </th>
           <th class="archive-table__cell--author">
             <router-link :to="{ query: filter({ sortCriteria: 'authorName', sortMode: sortMode('authorName') }) }" :class="sortModeClassFor('authorName')">Autor</router-link>
           </th>
@@ -26,7 +29,7 @@
       </thead>
       <tbody v-if="isLoading">
         <tr>
-          <td colspan="7">Cargando datos…</td>
+          <td colspan="8">Cargando datos…</td>
         </tr>
       </tbody>
       <tbody v-if="!isLoading">
@@ -45,6 +48,10 @@
           <td class="archive-table__cell--year">
             <router-link :to="{ query: filter({ year: post.metadata_year }) }">{{ post.metadata_year }}</router-link>
             <router-link v-if="yearFilter" :to="{ query: filter({ year: null }) }" class="archive-table__remove-filter"></router-link>
+          </td>
+          <td class="archive-table__cell--category">
+            <router-link :to="{ query: filter({ category: post.metadata_category }) }">{{ post.metadata_category }}</router-link>
+            <router-link v-if="categoryFilter" :to="{ query: filter({ category: null }) }" class="archive-table__remove-filter"></router-link>
           </td>
           <td class="archive-table__cell--author">
             <router-link :to="{ query: filter({ authorName: post.author_name }) }">{{ post.author_name }}</router-link>
@@ -91,6 +98,10 @@ export default {
       return this.$route.query.year
     },
 
+    categoryFilter() {
+      return this.$route.query.category
+    },
+
     authorNameFilter() {
       return this.$route.query.authorName
     },
@@ -120,6 +131,7 @@ export default {
         if (!this.matchesArtist(post.metadata_artist)) { return false }
         if (!this.matchesAlbum(post.metadata_album)) { return false }
         if (!this.matchesYear(post.metadata_year)) { return false }
+        if (!this.matchesCategory(post.metadata_category)) { return false }
         if (!this.matchesAuthorName(post.author_name)) { return false }
 
         return true
@@ -137,6 +149,7 @@ export default {
         if (this.sortCriteriaFromRoute === "album") { return this.spaceshipOperator(a.metadata_album, b.metadata_album) }
         if (this.sortCriteriaFromRoute === "artist") { return this.spaceshipOperator(a.metadata_artist, b.metadata_artist) }
         if (this.sortCriteriaFromRoute === "year") { return this.spaceshipOperator(a.metadata_year, b.metadata_year) }
+        if (this.sortCriteriaFromRoute === "category") { return this.spaceshipOperator(a.metadata_category, b.metadata_category) }
         if (this.sortCriteriaFromRoute === "authorName") { return this.spaceshipOperator(a.author_name, b.author_name) }
       })
     },
@@ -168,6 +181,11 @@ export default {
     matchesYear(year) {
       if (!this.yearFilter) return true
       return this.yearFilter === year
+    },
+
+    matchesCategory(category) {
+      if (!this.categoryFilter) return true
+      return this.categoryFilter === category
     },
 
     matchesAuthorName(authorName) {
